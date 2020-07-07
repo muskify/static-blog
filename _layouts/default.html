@@ -18,7 +18,9 @@
     {% seo %}
     {% feed_meta %}
 
-    
+    {% if jekyll.environment == "production" %}
+    {% include embed/facebook_pixel.html %}
+    {% endif %}
 </head>
 
 <body id="body">
