@@ -23,8 +23,9 @@ email: igor.bragaia@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Muskify - O aplicativo que deixa você finalmente organizado.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  muskify
+url: "https://muskify.github.io/jekyll-website/" # the base hostname & protocol for your site, e.g. http://example.com
+lang: pt_BR
+logo: "/assets/img/favicon.png"
 
 # Build settings
 theme: minima
