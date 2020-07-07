@@ -7,7 +7,11 @@ echo 'export PATH=$HOME/gems/bin:$PATH' >> ~/.zshrc
 source ~/.zshrc
 ```
 
-# Run docker image on ```localhost:4000```
+# Use docker image and be happy
+Live on ```http://0.0.0.0:4000/```
 ```
-docker-compose up -d
+docker-compose up
+```
+```
+docker-compose down
 ```
