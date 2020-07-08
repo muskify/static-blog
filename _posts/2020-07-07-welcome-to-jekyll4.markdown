@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "A vez dos \"tímidos\""
-body: "Não é possível que em nenhum momento da sua vida, amigo leitor, você percebeu quealguém, em alguma conversa em que estavam, brilhou de forma extrovertida"
+title:  "O poder da música"
+body: "Olá pessoal! Como vão?Você gosta de escutar música? Gosta também de entender como ela é formada?Você toca algum instrumento?Bora ler o texto de hoje! Prometo"
 author: "Igor Bragaia"
 date:   2020-07-07 02:47:32 -0300
 categories: jekyll update

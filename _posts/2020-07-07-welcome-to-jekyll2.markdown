@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "A vez dos \"tímidos\""
-body: "Não é possível que em nenhum momento da sua vida, amigo leitor, você percebeu quealguém, em alguma conversa em que estavam, brilhou de forma extrovertida"
+title:  "Por que cuidar bem da sua vida financeira (e dicas de como fazer isso)?"
+body: "Evitar a criação de dívidas para não destruir sonhos que você ainda nem sabe que tem Quem não quer respirar aliviado sobre seu dinheiro todo"
 author: "Igor Bragaia"
 date:   2020-07-07 02:47:32 -0300
 categories: jekyll update
