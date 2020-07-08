@@ -3,23 +3,28 @@ title: Blog
 permalink: "/blog"
 layout: default
 ---
-
+{% for category in site.categories %}
+<h3>{{ category[0] }}</h3>
+{% endfor %}
 <div class="row">
     {% for post in site.posts %}
-        <div class="card col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4" style="padding: 8px; border: none">
-            <img style="width:100%; height: 200px; object-fit:cover" src="{{ "/assets/img/bragaia.jpg" | relative_url }}">
-            <div class="card-body">
+    <div class="card col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4" style="padding: 8px; border: none">
+        <a href="{{post.url}}"><img style="width:100%; height: 200px; object-fit:cover"
+                src="{{ "/assets/img/bragaia.jpg" | relative_url }}"></a>
+        <div class="card-body">
+            <a href="{{post.url}}" class="custom-card">
                 <h5 class="verticalbar card-title">{{ post.title }}</h5>
-                <p class="card-text">{{ post.body }}</p>
-                <div class="d-flex flex-row">
-                    <div class="p-2 my-auto">
-                        <img class="thumbnail" src="{{ "/assets/img/bragaia.jpg" | relative_url }}">
-                    </div>
-                    <div class="p-2 my-auto">
-                        <p class="card-text"><small class="text-muted">por {{ post.author }}</small></p>
-                    </div>
+                <p class="card-text">{{ post.excerpt }}</p>
+            </a>
+            <div class="d-flex flex-row">
+                <div class="p-2 my-auto">
+                    <img class="thumbnail" src="{{ "/assets/img/bragaia.jpg" | relative_url }}">
+                </div>
+                <div class="p-2 my-auto">
+                    <p class="card-text"><small class="text-muted">por {{ post.author }}</small></p>
                 </div>
             </div>
         </div>
+    </div>
     {% endfor %}
 </div>

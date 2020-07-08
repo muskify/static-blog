@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "A vez dos \"tímidos\""
-body: "Não é possível que em nenhum momento da sua vida, amigo leitor, você percebeu quealguém, em alguma conversa em que estavam, brilhou de forma extrovertida"
 author: "Igor Bragaia"
 date:   2020-07-07 02:47:32 -0300
 categories: jekyll update

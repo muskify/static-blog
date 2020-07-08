@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "A matéria que a escola não ensina…"
-body: "“Quem olha para fora sonha… Quem olha para dentro acorda!” Carl Jung Desde o nascimento, somos criados mediante o meio sociocultural em que surgimos.Nossos valores,"
+title:  "Você tem medo de encarar um objetivo?"
 author: "Igor Bragaia"
 date:   2020-07-07 02:47:32 -0300
 categories: jekyll update

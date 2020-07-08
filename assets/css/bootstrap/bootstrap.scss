@@ -5,7 +5,8 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 
-@import "../custom/variables"; // own vars
+@import "../custom/variables";
+@import "../custom/styles";
 @import "functions";
 @import "variables";
 @import "mixins";

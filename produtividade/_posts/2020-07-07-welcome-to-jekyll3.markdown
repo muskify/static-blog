@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "O poder da música"
-body: "Olá pessoal! Como vão?Você gosta de escutar música? Gosta também de entender como ela é formada?Você toca algum instrumento?Bora ler o texto de hoje! Prometo"
+title:  "A matéria que a escola não ensina…"
 author: "Igor Bragaia"
 date:   2020-07-07 02:47:32 -0300
 categories: jekyll update

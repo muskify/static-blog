@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "Você tem medo de encarar um objetivo?"
-body: "Quero ser mais produtivo Às vezes, o que falta para que você conquiste o que quer é apenas a coragem de arriscar.Primeiramente, vamos deixar uma"
+title:  "O poder da música"
 author: "Igor Bragaia"
 date:   2020-07-07 02:47:32 -0300
 categories: jekyll update
