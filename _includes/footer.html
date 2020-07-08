@@ -1,2 +1,36 @@
-<br/>
-a
+<footer class="py-4 bg-light text-white-50">
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                Aprovado por alunos do ITA!<br/><br/><br/>
+                Muskify é o aplicativo usado por estudantes e profissionais de alto desempenho
+            </div>
+            <div class="col">
+                <div class="text-right">
+                    <a href="https://www.instagram.com/muskify.app/">
+                        {% fa_svg fab.fa-instagram %}
+                    </a>
+                    <a href="https://www.facebook.com/muskify/">
+                        {% fa_svg fab.fa-facebook %}
+                    </a>
+                </div>
+            </div>
+        </div>
+        <hr/>
+        <div class="row">
+            <div class="col">
+                {{ site.title }} © {{ site.time | date: '%Y' }}
+            </div>
+            <div class="col">
+                <div class="text-right">
+                    <a href="https://www.instagram.com/muskify.app/">
+                        <small>Termos de uso</small>
+                    </a>
+                    <a href="https://www.facebook.com/muskify/">
+                        <small>Política de privacidade</small>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>

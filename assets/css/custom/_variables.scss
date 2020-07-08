@@ -1,1 +1,14 @@
-$primary: #8d021f; // burgundy
+// colors
+$white:    #fff !default;
+$muskify-dark-purple: #796FC1;
+$muskify-light-purple: #BCBDE6;
+
+$primary: $muskify-dark-purple;
+$light: $muskify-light-purple;
+$navbar-light-color:                rgba($white, .5) !default;
+$navbar-light-hover-color:          rgba($white, .7) !default;
+$navbar-light-active-color:         rgba($white, .9) !default;
+$navbar-light-disabled-color:       rgba($white, .3) !default;
+$navbar-light-toggler-border-color: rgba($white, .1) !default;
+
+.icon { width: 50px; height: 50; display: inline-block; fill: black; padding-right: 5px; vertical-align: text-top; }
