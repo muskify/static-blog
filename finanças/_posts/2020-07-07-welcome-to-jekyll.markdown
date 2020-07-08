@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "A vez dos \"tímidos\""
-author: "Igor Bragaia"
+author: bragaia
+image: "/assets/img/blog-1.jpg"
 date:   2020-07-07 02:47:32 -0300
 categories: jekyll update
 ---

@@ -1,0 +1,21 @@
+---
+layout: default
+---
+{% assign author = site.authors | where:"identifier",page.author | first %}
+
+<div style="width: 100%; height: 350px; background-image: url({{page.image | relative_url}});">
+    <div class="container">
+        {{ page.title | upcase}}
+        <br />
+        por {{ author.name }}
+        <br />
+        Blog >
+        {% for category in page.categories %}
+        {{ category }}
+        {% endfor %}
+    </div>
+</div>
+
+<div class="container" style="padding-top: 50px; padding-bottom: 50px;">
+    {{ content }}
+</div>
