@@ -19,7 +19,6 @@ group :jekyll_plugins do
   gem "github-pages"
   gem "jekyll-seo-tag"
   gem "jekyll-sitemap"
-  gem "jekyll-fontawesome-svg"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
