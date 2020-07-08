@@ -3,19 +3,81 @@ layout: default
 ---
 {% assign author = site.authors | where:"identifier",page.author | first %}
 
-<div style="width: 100%; height: 350px; background-image: url({{page.image | relative_url}});">
-    <div class="container">
-        {{ page.title | upcase}}
-        <br />
-        por {{ author.name }}
-        <br />
-        Blog >
-        {% for category in page.categories %}
-        {{ category }}
-        {% endfor %}
+<div class="vertically-spaced"
+    style="width: 100%; background-image: url({{page.image | relative_url}});">
+    <div style="height: 150px;"></div>
+    <div class="muskify-gradient">
+        <div class="row">
+
+            <div class="col-12 col-sm-12 col-md-2 col-lg-2 col-xl-2" style="text-align: right;">
+            </div>
+            <div class="col-12 col-sm-12 col-md-8 col-lg-8 col-xl-8" style="padding-left: 30px; padding-right: 30px;">
+                <div style="padding-top: 60px; color: black;">
+                    <h3 class="verticalbar">{{ page.title | upcase}}</h3>
+                    <p>
+                        {{ page.excerpt }}
+                    </p>
+                    <a href="{{author.url | relative_url}}" class="custom-card">
+                        <div class="d-flex flex-row">
+                            <div class="p-2 my-auto">
+                                <img class="thumbnail" src="{{ "/assets/img/bragaia.jpg" | relative_url }}">
+                            </div>
+                            <div class="p-2 my-auto">
+                                <p class="card-text"><small class="text-muted">por {{ author.name }}</small></p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+            <div class="col-12 col-sm-12 col-md-2 col-lg-2 col-xl-2" style="text-align: center;">
+            </div>
+        </div>
     </div>
 </div>
-
-<div class="container" style="padding-top: 50px; padding-bottom: 50px;">
-    {{ content }}
+<br />
+<br />
+<div class="row">
+    <div class="col-12 col-sm-12 col-md-2 col-lg-2 col-xl-2 text-sm-right text-md-right text-lg-right text-xl-right">
+        <div class="container">
+            <div class="d-none d-md-block">
+                <p style="font-weight: bold; opacity: 0.7;">TEMAS</p>
+                {% for category in page.categories %}
+                <p class="muskify-tag">{{ category | upcase }}</p>
+                {% endfor %}
+                <br />
+            </div>
+            <p style="font-weight: bold; opacity: 0.7;">COMPARTILHE</p>
+            <div class="row">
+                <div class="col">
+                    <a href="https://www.instagram.com/muskify.app/">
+                        <img class="icon" src="{{ "/assets/img/instagram.svg" | relative_url }}">
+                    </a>
+                    <a href="https://www.facebook.com/muskify/">
+                        <img class="icon" src="{{ "/assets/img/facebook.svg" | relative_url }}">
+                    </a>
+                </div>
+            </div>
+            <br />
+        </div>
+    </div>
+    <div class="col-12 col-sm-12 col-md-8 col-lg-8 col-xl-8" style="padding-left: 30px; padding-right: 30px;">
+        {{ content }}
+    </div>
+    <div class="col-12 col-sm-12 col-md-2 col-lg-2 col-xl-2" style="text-align: left;">
+        <div class="container">
+            <h6 style="left: -15px; color: lightblue;">MAIS RECENTES</h6>
+            <div class="thin-verticalbar" style="padding-right: 30px;">
+                {% assign posts = site.posts | where_exp:"post","post.url != page.url" %}
+                {% for post in posts limit: 3 | sort: "last" %}
+                {% assign otherauthor = site.authors | where:"identifier",post.author | first %}
+                <a class="custom-card" href="{{ post.url | relative_url}}">
+                    <span style="font-size: 10px;">{{  post.categories | sample | upcase }}</span> <span
+                        style="font-weight: bold; font-size: 14px;">{{ post.title }}</span> <span
+                        style="font-size: 11px; opacity: 0.5;">{{ otherauthor.name }} </span>
+                </a>
+                <hr />
+                {% endfor %}
+            </div>
+        </div>
+    </div>
 </div>
