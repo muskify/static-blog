@@ -57,7 +57,7 @@ a.custom-card:hover {
 }
 
 .muskify-tag {
-    background-color: $muskify-dark-purple; 
+    background-color: $muskify-dark-purple;
     color: white; 
     border-radius: 15px; 
     padding: 8px; 
@@ -65,6 +65,10 @@ a.custom-card:hover {
     font-size: 12px; 
     font-weight: bold;
     display:inline-block
+}
+
+.muskify-tag.black {
+    background-color: rgba(black, 0.5);
 }
 
 .muskify-light-background {
