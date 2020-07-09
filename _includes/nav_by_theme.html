@@ -1,8 +1,0 @@
-<div class="container">
-    <p style="font-weight: bold; opacity: 0.7;">NAVEGUE POR TEMAS</p>
-    {% for category in site.categories %}
-    <a class="custom-card" href="{{ site.baseurl}}/category/{{ category[0] }}">
-        <p class="muskify-tag">{{ category[0] | upcase }}</p>
-    </a>
-    {% endfor %}
-</div>

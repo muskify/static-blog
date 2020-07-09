@@ -3,4 +3,14 @@ title: Blog
 permalink: /blog/
 layout: default
 ---
+<div style="text-align: center; background: linear-gradient(-180deg, #BCBDE6, white);">
+    <h1 style="padding: 30px; font-weight: bold; font-size: 40px; opacity: 0.8;">Dicas práticas e valiosas pra você ser mais eficiente</h1>
+</div>
+<br/>
+<div class="container">
+    <p style="font-weight: bold; opacity: 0.7; display: inline;">TEMAS</p>
+    {% for category in site.categories %}
+    <p class="muskify-tag">{{ category[0] | upcase }}</p>
+    {% endfor %}
+</div>
 {% include posts.html posts=site.posts %}
