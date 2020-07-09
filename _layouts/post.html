@@ -41,7 +41,9 @@ layout: default
             <div class="d-none d-md-block">
                 <p style="font-weight: bold; opacity: 0.7;">TEMAS</p>
                 {% for category in page.categories %}
-                <p class="muskify-tag">{{ category | upcase }}</p>
+                <a class="custom-card" href="{{ site.baseurl}}/category/{{ category }}">
+                    <p class="muskify-tag">{{ category | upcase }}</p>
+                </a>
                 {% endfor %}
                 <br />
             </div>
@@ -62,26 +64,25 @@ layout: default
     <div class="col-12 col-sm-12 col-md-8 col-lg-8 col-xl-8" style="padding-left: 30px; padding-right: 30px;">
         {{ content }}
     </div>
-    <div class="col-12 col-sm-12 col-md-2 col-lg-2 col-xl-2" style="text-align: left;">
-        <div class="container">
-            <h6 style="left: -15px; color: lightblue;">MAIS RECENTES</h6>
-            <div class="thin-verticalbar" style="padding-right: 30px;">
-                {% assign posts = site.posts | where_exp:"post","post.url != page.url" %}
-                {% for post in posts limit: 3 | sort: "last" %}
-                {% assign otherauthor = site.authors | where:"identifier",post.author | first %}
-                <a class="custom-card" href="{{ post.url | relative_url}}">
-                    <span style="font-size: 10px;">{{  post.categories | sample | upcase }}</span> <span
-                        style="font-weight: bold; font-size: 14px;">{{ post.title }}</span> <span
-                        style="font-size: 11px; opacity: 0.5;">{{ otherauthor.name }} </span>
-                </a>
-                <hr />
-                {% endfor %}
-            </div>
+    <div class="col-12 col-sm-12 col-md-2 col-lg-2 col-xl-2" style="padding: 30px; text-align: left;">
+        <h6 style="left: -15px; color: lightblue;">MAIS RECENTES</h6>
+        <div class="thin-verticalbar">
+            {% assign posts = site.posts | where_exp:"post","post.url != page.url" %}
+            {% for post in posts limit: 3 | sort: "last" %}
+            {% assign otherauthor = site.authors | where:"identifier",post.author | first %}
+            <a class="custom-card" href="{{ post.url | relative_url}}">
+                <span style="font-size: 10px;">{{  post.categories | sample | upcase }}</span> <span
+                    style="font-weight: bold; font-size: 14px;">{{ post.title }}</span> <span
+                    style="font-size: 11px; opacity: 0.5;">{{ otherauthor.name }} </span>
+            </a>
+            <hr />
+            {% endfor %}
         </div>
     </div>
     <div class="container">
         <p style="font-weight: bold; opacity: 0.7;">LEIA TAMBÉM</p>
         {% assign posts = posts | sample: 3 %}
         {% include posts.html posts=posts %}
+        {% include nav_by_theme.html %}
     </div>
 </div>

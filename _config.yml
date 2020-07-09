@@ -63,6 +63,18 @@ defaults:
       layout: post
       permalink: produtividade/:title
 
+jekyll-archives:
+  enabled: all
+  layouts:
+    category: "archives/category"
+  permalinks:
+    # year: '/:year/'
+    # month: '/:year/:month/'
+    # day: '/:year/:month/:day/'
+    # tag: '/tag/:name/'
+    category: '/category/:name/'
+      
+  
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
