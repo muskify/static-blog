@@ -36,8 +36,31 @@ plugins:
   - jekyll-feed
 
 collections:
+  posts:
+    output: true
+    permalink: /:collection/:path/  
   authors:
     output: true
+
+defaults:
+  - scope:
+      path: _posts/finanças
+      type: posts
+    values:
+      layout: post
+      permalink: finanças/:title
+  - scope:
+      path: _posts/metas
+      type: posts
+    values:
+      layout: post
+      permalink: metas/:title
+  - scope:
+      path: _posts/produtividade
+      type: posts
+    values:
+      layout: post
+      permalink: produtividade/:title
 
 # Exclude from processing.
 # The following items will not be processed, by default.
