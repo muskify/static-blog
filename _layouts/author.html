@@ -1,5 +1,19 @@
 ---
 layout: default
 ---
-fasdafs
-<h1>{{ page.title }}</h1>
+<div class="container">
+    <br/>
+    <div style="text-align: left;">
+        <img style="width: 80px; height: 80px; border-radius: 40px; vertical-align: middle;"
+            src="{{ page.image | relative_url }}">
+        <span style="font-weight: bold; font-size: 30px; padding-left: 30px;"> {{ page.name }}</span>
+    </div>
+    <div>
+        <div style="font-weight: bold; font-size: 70px;opacity: 0.3; position: relative; bottom: -40px;">❛❛</div>
+        <div style="padding-left: 30px;padding-right: 30px;">
+            {{ content }}
+        </div>
+        <div style="font-weight: bold; font-size: 70px; opacity: 0.3; text-align: right; position: relative; top: -40px;">❜❜</div>
+        <br />
+    </div>
+</div>
