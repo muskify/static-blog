@@ -1,14 +1,18 @@
 ---
 layout: post
-title:  "A matéria que a escola não ensina…"
-excerpt: "Determinar suas metas de forma esperta pode ser o que falta para alcançar o objetivo que você tanto deseja"
+title: A matéria que a escola não ensina…
+excerpt: Determinar suas metas de forma esperta pode ser o que falta para alcançar
+  o objetivo que você tanto deseja
 author: bragaia
 image: "/assets/img/blog-1.jpg"
-readingtime: 10
-date:   2020-07-05 02:47:32 -0300
+readingtime: "10"
+date: 2020-07-05T02:47:32.000-03:00
 categories:
-    - categoria3
+- categoria3
+
 ---
+Atualizando pelo forestry
+
 Você tem um objetivo que deseja atingir?
 
 Pode ser um projeto que você deseja tirar do papel, pode ser uma aprovação em concurso ou
@@ -20,11 +24,7 @@ Se sim, você não consegue encontrar o tempo para ir atrás dele?
 Ou, quando consegue, parece que não chega a lugar nenhum e fica se sentindo um pouco
 frustrado ao não ver progresso?
 
-Pode ser que você esteja se esforçando, porém sem um planejamento e sem metas bem
-estabelecidas. Isso significa que muito do seu esforço estará sendo desperdiçado, pois suas ideias
-estão um pouco difusas. Tem um pouco a ver com aquela fala popular: “atirar para todo lado”. Se você
-está “atirando para todo lado”, irá desperdiçar balas, ao invés de acertar todos os tiros exatamente no
-alvo, percebe?
+Pode ser que você esteja se esforçando, porém sem um planejamento e sem metas bem estabelecidas. Isso significa que muito do seu esforço estará sendo desperdiçado, pois suas ideias estão um pouco difusas. Tem um pouco a ver com aquela fala popular: “atirar para todo lado”. Se você está “atirando para todo lado”, irá desperdiçar balas, ao invés de acertar todos os tiros exatamente no alvo, percebe?
 
 Agora você deve estar se perguntando: como posso obter resultados melhores na perseguição
 de um objetivo? Um dos pontos mais importantes é o planejamento, por meio da criação das metas
@@ -32,7 +32,7 @@ adequadas, metas que serão os degraus para atingir o objetivo final.
 
 Vamos discutir 3 atitudes práticas para traçar metas de forma mais eficiente:
 
-- Defina seu objetivo com clareza e o coloque como uma prioridade
+* Defina seu objetivo com clareza e o coloque como uma prioridade
 
 Para que você saiba quais recursos mobilizar, quais aprendizados obter e quais esforços fazer,
 primeiro é necessário que você identifique com precisão atrás de quê você está correndo.
@@ -81,7 +81,7 @@ finalmente, desesperada, a estátua ganhou vida, olhou para o homem suplicante e
 filho, por favor, por favor, compre um bilhete.”
 Entendeu a piada?
 
-- Revise seu plano de ação constantemente e recalcule a rota se necessário
+* Revise seu plano de ação constantemente e recalcule a rota se necessário
 
 É preciso ser realista e ter os pés nos chão. Pode ser que demore, pelo menos um pouco, para
 que seus esforços sejam recompensados. Assim, à medida em que você for caminhando, pode ser que
@@ -111,7 +111,7 @@ Faça cursos online ou presenciais, assista a palestras, planeje seu orçamento 
 livros ou mentorias. Todas essas atitudes são investimentos que irão agregar, fornecer mais
 conhecimento e ajudar a alcançar seu objetivo.
 
-- Não espere a perfeição para começar, apenas comece
+* Não espere a perfeição para começar, apenas comece
 
 Muitas vezes pode ser assustador começar um projeto novo. Por isso, podem surgir
 pensamentos de que você ainda não está pronto, de que o mercado está saturado e não há espaço
