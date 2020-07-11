@@ -7,6 +7,7 @@ fields:
   label: layout
   hidden: true
   description: post
+  default: post
 - type: text
   name: title
   label: title
@@ -50,5 +51,3 @@ fields:
     use_select: false
     source:
       type: simple
-pages:
-- _posts/produtividade/teste-1-2.md
