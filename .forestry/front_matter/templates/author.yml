@@ -1,0 +1,37 @@
+---
+label: Author
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: identifier
+  label: identifier
+- type: text
+  name: name
+  label: name
+- type: text
+  name: sex
+  label: sex
+- type: text
+  name: position
+  label: position
+- type: text
+  name: email
+  label: email
+- type: text
+  name: instagram
+  label: instagram
+- type: textarea
+  name: profile
+  label: profile
+- type: file
+  name: image
+  label: image
+- type: text
+  name: permalink
+  label: permalink
+- type: text
+  name: layout
+  label: layout
