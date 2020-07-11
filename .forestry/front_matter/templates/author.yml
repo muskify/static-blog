@@ -15,9 +15,6 @@ fields:
   name: sex
   label: sex
 - type: text
-  name: position
-  label: position
-- type: text
   name: email
   label: email
 - type: text
