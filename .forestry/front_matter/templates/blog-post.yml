@@ -47,3 +47,5 @@ fields:
     use_select: false
     source:
       type: simple
+pages:
+- _posts/produtividade/teste-1-2.md
