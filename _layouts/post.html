@@ -3,7 +3,7 @@ layout: default
 ---
 {% assign author = site.authors | where:"identifier",page.author | first %}
 
-<div class="vertically-spaced" style="width: 100%; background-image: url({{page.image | relative_url}});">
+<div class="vertically-spaced post-background-image" style="background-image: url({{page.image | relative_url}});">
     <div style="height: 150px;"></div>
     <div class="muskify-gradient">
         <div class="row">

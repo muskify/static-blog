@@ -74,3 +74,10 @@ a.custom-card:hover {
 .muskify-light-background {
     background-color: $muskify-light-purple;
 }
+
+.post-background-image {
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center; 
+}
