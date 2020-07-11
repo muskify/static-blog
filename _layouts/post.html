@@ -21,7 +21,13 @@ layout: default
                                 <img class="thumbnail" src="{{ "/assets/img/bragaia.jpg" | relative_url }}">
                             </div>
                             <div class="p-2 my-auto">
-                                <p class="card-text"><small class="text-muted">por {{ author.name }}</small></p>
+                                <small>por {{ author.name }}</small>
+                                <br />
+                                <small class="text-muted">
+                                    <time datetime="{{ post.date | date_to_xmlschema }}">
+                                        {% include date.html date=page.date %}
+                                    </time>
+                                </small>
                             </div>
                         </div>
                     </a>
