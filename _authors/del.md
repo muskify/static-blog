@@ -2,7 +2,7 @@
 title: bragaia
 identifier: bragaia
 name: Igor Bragaia
-title: Muskiano
+sex: Muskiana
 position: Engenheiro de Software
 email: igor.bragaia@gmail.com
 instagram: https://www.instagram.com/igorbragaia
