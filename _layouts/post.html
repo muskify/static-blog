@@ -79,9 +79,9 @@ layout: default
         </div>
     </div>
     <div class="container">
-        <div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" style="text-align: center;"></div>
-
-        <p style="font-weight: bold; opacity: 0.7;">LEIA TAMBÉM</p>
+        <div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-width="100%"></div>
+        <br/>
+        <p style="font-weight: bold; opacity: 0.7;padding-left: 30px;">LEIA TAMBÉM</p>
         {% assign posts = posts | sample: 3 %}
         {% include posts.html posts=posts %}
     </div>

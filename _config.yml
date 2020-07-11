@@ -71,8 +71,8 @@ comments:
   provider : "facebook"
   facebook:
     appid : 198009671305681
-    num_posts : 5 # 5 (default)
-    colorscheme : "light" # "light" (default), "dark"
+    num_posts : 5
+    colorscheme : "light"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
