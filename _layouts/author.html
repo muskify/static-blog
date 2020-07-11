@@ -2,18 +2,37 @@
 layout: default
 ---
 <div class="container">
-    <br/>
+    <br />
     <div style="text-align: left;">
-        <img style="width: 80px; height: 80px; border-radius: 40px; vertical-align: middle;"
-            src="{{ page.image | relative_url }}">
-        <span style="font-weight: bold; font-size: 30px; padding-left: 30px;"> {{ page.name }}</span>
-    </div>
-    <div>
-        <div style="font-weight: bold; font-size: 70px;opacity: 0.3; position: relative; bottom: -40px;">❛❛</div>
-        <div style="padding-left: 30px;padding-right: 30px;">
-            {{ content }}
+        <div class="row">
+            <div class="col col-2 col-sm-2 col-md-2 col-lg-2 col-xl-2" style="text-align: end;">
+                <img style="width: 70px; height: 70px; border-radius: 35px; vertical-align: middle;"
+                    src="{{ page.image | relative_url }}">
+            </div>
+            <div class="col col-10 col-sm-10 col-md-10 col-lg-10 col-xl-10">
+                <span style="font-weight: bold; font-size: 30px; padding-left: 20px;">{{page.title}}
+                    {{ page.name }}</span>
+                <a href="https://www.instagram.com/muskify.app/" style="padding-left: 20px;">
+                    <img class="icon" src="{{ "/assets/img/instagram.svg" | relative_url }}"
+                        style="width: 25px; height: 25px;">
+                </a>
+                <a href="mailto:igor.bragaia@gmail.com" style=" padding-left: 20px;">
+                    <img class="icon" src="{{ "/assets/img/gmail.png" | relative_url }}"
+                        style="width: 25px; height: 25px;">
+                </a>
+                <div class="text-muted" style="padding-left: 20px; padding-right: 30px;">{{ page.profile }}</div>
+            </div>
         </div>
-        <div style="font-weight: bold; font-size: 70px; opacity: 0.3; text-align: right; position: relative; top: -40px;">❜❜</div>
-        <br />
     </div>
+    <div style=" font-weight: bold; font-size: 70px;opacity: 0.3; position: relative; bottom: -40px;">❛❛
+    </div>
+    <div style="padding-left: 30px;padding-right: 30px;">
+        {{ content }}
+    </div>
+    <div style="font-weight: bold; font-size: 70px; opacity: 0.3; text-align: right; position: relative; top: -40px;">
+        ❜❜
+    </div>
+    <p style="font-weight: bold; opacity: 0.7;">Leia também meus posts! Eles irão fazer a diferença no seu dia 😊</p>
+    {% assign posts = site.posts | where:"author",page.identifier %}
+    {% include posts.html posts=posts %}
 </div>
