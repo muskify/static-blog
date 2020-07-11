@@ -10,21 +10,40 @@ fields:
 - type: text
   name: title
   label: title
+  config:
+    required: true
 - type: text
   name: excerpt
   label: excerpt
+  description: Chamada para aparecer abaixo do título
+  config:
+    required: true
 - type: text
   name: author
   label: author
+  config:
+    required: true
+  description: 'Identificador do autor, deve ser igual o campo "author" (exemplo:
+    bragaia). Se tiver em dúvidas, veja a pasta Authors'
 - type: file
   name: image
   label: image
+  description: Imagem da publicão que aparece no topo da publicação
 - type: number
   name: readingtime
   label: readingtime
+  description: Tempo estimado de leitura em minutos
+  config:
+    required: true
+    min: 1
 - type: datetime
   name: date
   label: date
+  hidden: true
 - type: list
   name: categories
   label: categories
+  config:
+    use_select: false
+    source:
+      type: simple
