@@ -4,6 +4,7 @@ title:  "A vez dos a m vvvv sd      sssssssssssss dfsfsd fsd fsd fsdf "
 excerpt: "Determinar suas metas metas metasmetas de forma esperta pode ser o que falta para alcançar."
 author: bragaia
 image: "/assets/img/blog-1.jpg"
+readingtime: 5
 date:   2020-03-03 02:47:32 -0300
 categories:
   - categoria1

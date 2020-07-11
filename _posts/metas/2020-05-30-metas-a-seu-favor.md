@@ -4,6 +4,7 @@ title: "Suas metas estão trabalhando a seu favor? 3 dicas práticas"
 excerpt: "Determinar suas metas de forma esperta pode ser o que falta para alcançar o objetivo que você tanto deseja"
 author: bragaia
 image: "/assets/img/blog-1.jpg"
+readingtime: 5
 date:   2020-05-30 02:47:32 -0300
 categories:
     - categoria1

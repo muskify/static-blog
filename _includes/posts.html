@@ -30,7 +30,7 @@
                                 <br />
                                 <small class="text-muted">
                                     <time datetime="{{ post.date | date_to_xmlschema }}">
-                                        {% include date.html date=post.date %}
+                                        {% include date.html date=post.date %} • {{ post.readingtime }} minutos de leitura
                                     </time>
                                 </small>
                             </p>
