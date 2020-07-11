@@ -39,7 +39,10 @@ fields:
 - type: datetime
   name: date
   label: date
-  hidden: true
+  hidden: false
+  config:
+    required: true
+  description: Data em que o texto deve ser automaticamente publicado
 - type: list
   name: categories
   label: categories
