@@ -38,8 +38,6 @@ Muitas pessoas apresentam distúrbios no sono, como a insônia, a apneia e o son
 
 O sono é dividido em 4 etapas, são elas:
 
-### Table title
-
 | ETAPAS | FREQUÊNCIA DAS ONDAS CEREBRAIS | DESCRIÇÃO |
 | --- | --- | --- |
 | FASE 1 | (4 – 13 Hz) | Perde tônus muscular e diminui a consciência do ambiente externo. |
