@@ -1,7 +1,7 @@
 ---
 title: marina
 identifier: marina
-name: Marina
+name: Marina/Del
 sex: Muskiana
 position: Mentora
 email: igor.bragaia@gmail.com

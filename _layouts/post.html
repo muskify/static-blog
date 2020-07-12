@@ -18,10 +18,14 @@ layout: default
                     <a href="{{author.url | relative_url}}" class="custom-card">
                         <div class="d-flex flex-row">
                             <div class="p-2 my-auto">
-                                <img class="thumbnail" src="{{ "/assets/img/bragaia.jpg" | relative_url }}">
+                                <img class="thumbnail" src="{{ author.image | relative_url }}">
                             </div>
                             <div class="p-2 my-auto">
                                 <small>por {{ author.name }}</small>
+                                <a href="https://www.instagram.com/muskify.app/" style="padding-left: 20px;">
+                                    <img class="icon" src="{{ "/assets/img/instagram.svg" | relative_url }}"
+                                        style="width: 25px; height: 25px; vertical-align: middle;">
+                                </a>
                                 <br />
                                 <small class="text-muted">
                                     <time datetime="{{ post.date | date_to_xmlschema }}">
