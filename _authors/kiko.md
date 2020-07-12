@@ -1,16 +1,16 @@
 ---
 title: marina
-identifier: maina
+identifier: marina
 name: Marina
 sex: Muskiana
-position: Escritora
+position: Mentora
 email: igor.bragaia@gmail.com
-instagram: https://www.instagram.com/igorbragaia
-profile: Estudante de Engenharia da Computação no ITA. Foi Aprovado no ITA, 2x no
-  IME e na AFA e Engenheiro de Software na Microsoft nos EUA
-image: "/assets/img/authors/profile_bragaia.jpg"
+instagram: https://www.instagram.com/estudita_del/
+profile: '"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,
+  adipisci velit..."'
+image: assets/uploads/marina.png
 permalink: "/marina"
 layout: author
 
 ---
-Sou apaixonado por programação e por resolver problemas usando tecnologia. No segundo ano do ITA, criei o site República Certa com outro amigo buscando ajudar estudantes iniciando suas vidas universitárias em uma nova cidade. Em 2020, durante o último ano da minha graduação, idelizei e iniciei o sonho do Muskify junto com esse time fantástico que acredita que podemos fazer a diferença na vida de estudantes brasileiro ajudando a se tornarem mais eficazes e produtivos para que eles realizem seus sonhos e atinjam seus objetivos.
+**Lorem Ipsum** is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
