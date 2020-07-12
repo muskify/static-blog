@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A vez dos ``tímidos``
+title: A vez dos tímidos
 excerpt: A dose de coragem deve ser alta, mas a recompensa de ser livre em si mesmo
   e poder crescer dialogando e conhecendo novas pessoas podem abrir portas que você
   jamais imaginou!
@@ -16,7 +16,7 @@ Não é possível que em nenhum momento da sua vida, amigo leitor, você percebe
 
 Antes de atacar o problema, é necessário dizer: não há como mudar a personalidade do ser humano, pois não pode-se exigir a autenticidade para se ter uma voz e um posicionamento se sugerimos aqui que o “tímido” mude seus valores e seja alguém que ele não é, mesmo se esse alguém seja a pessoa que ele mais admira. O que levantaremos aqui é a autoconfiança, a elevação da individualidade para o debate, vista como a única forma segura e duradoura de tornar o “tímido” a melhor versão de si mesmo em termos de comunicação.
 
-## Por que somos \`\`tímidos\`\`?
+## Por que somos "tímidos"?
 
 Desde o começo de nossa formação social, recebemos várias correções na nossa forma de se comportar, pela família e pela comunidade, que são diretrizes para a convivência em sociedade. Todavia, quando essa correção é exagerada, ou por motivos de costume, cultura e/ou preconceito tornam-se uma grave censura, pode derrubar a autoconfiança e a autoestima (observe os autos- sendo perdidos), tirando-lhe a autonomia de ser quem é, causando uma “timidez” patológica, que não será tratada se a pessoa não perceber esse limo em que vive. Afinal, se o indivíduo pensa que sua forma de viver é incorreta e não se encaixa no rótulo do socialmente aceito, como ele pode avançar com a comunicação mediante tanta insegurança?
 
