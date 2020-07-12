@@ -15,4 +15,4 @@ permalink: "/keziah"
 layout: author
 
 ---
-Estudante de Engenharia Biomédica pela Universidade Federal de São Paulo (UNIFESP). Fui também aprovada em Engenharia Bioquímica pela USP, Engenharia de Bioprocessos e Biotecnologia pela Federal do Paraná (UFPR) e Química na Federal de Goiás (UFG). Faço parte como coordenadora da área de Engenharia Biomédica do Projeto Networking (@projetonetworkingpvt).
+teste 1 2 3
