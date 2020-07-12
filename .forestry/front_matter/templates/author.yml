@@ -33,4 +33,5 @@ fields:
   name: layout
   label: layout
 pages:
+- _authors/juliocesar.md
 - _authors/keziah.md
