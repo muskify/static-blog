@@ -45,7 +45,7 @@ O sono é dividido em 4 etapas, são elas:
 | FASE 1 | (4 – 13 Hz) | Perde tônus muscular e diminui a consciência do ambiente externo. |
 | FASE 2 | (12 -16 Hz) | Maior relaxamento muscular e ocupa cerca de 45-55% do tempo total do sono nos adultos. |
 | FASE 3 | (0,5 – 4 Hz) | Sono profundo (SWS). |
-| FASE 4 - **REM** | (8 – 30 Hz) | Atonia muscular (exceto o movimento ocular). Ocupa cerca de 20-25% do tempo total do sono nos adultos. |
+| FASE 4 - REM | (8 – 30 Hz) | Atonia muscular (exceto o movimento ocular). Ocupa cerca de 20-25% do tempo total do sono nos adultos. |
 
 _Tabela feita baseada na que está exposta no artigo:_ [_Figuerola, W., & Ribeiro, S. (2013). Sono e plasticidade_](http://www.revistas.usp.br/revusp/article/view/69222 "Sono e plasticidade")
 
