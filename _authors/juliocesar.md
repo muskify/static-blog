@@ -11,7 +11,6 @@ profile: In publishing and graphic design, Lorem ipsum is a placeholder text com
 image: "/assets/uploads/aaa.jpg"
 permalink: "/juliocesar"
 layout: author
-published: false
 
 ---
 n [publishing](https://en.wikipedia.org/wiki/Publishing "Publishing") and [graphic design](https://en.wikipedia.org/wiki/Graphic_design "Graphic design"), **_Lorem ipsum_** is a [placeholder text](https://en.wikipedia.org/wiki/Placeholder_text "Placeholder text") commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. _Lorem ipsum_ may be used before final [copy](https://en.wikipedia.org/wiki/Copy_(written) "Copy (written)") is available, but it may also be used to temporarily replace copy in a process called [greeking](https://en.wikipedia.org/wiki/Greeking "Greeking"), which allows designers to consider form without the meaning of the text influencing the design.
