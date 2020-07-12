@@ -8,7 +8,7 @@ email: igor.bragaia@gmail.com
 instagram: https://www.instagram.com/estudita_del/
 profile: '"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,
   adipisci velit..."'
-image: assets/uploads/marina.png
+image: assets/uploads/marina.jpeg
 permalink: "/marina"
 layout: author
 
