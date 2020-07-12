@@ -44,28 +44,11 @@ collections:
 
 defaults:
   - scope:
-      path: _posts/finanças
+      path: _posts
       type: posts
     values:
       layout: post
-      permalink: finanças/:title
-  - scope:
-      path: _posts/metas
-      type: posts
-    values:
-      layout: post
-      permalink: metas/:title
-  - scope:
-      path: _posts/produtividade
-      type: posts
-    values:
-      layout: post
-      permalink: produtividade/:title
-  - scope:
-      path: ""
-      type: authors
-    values:
-      layout: author
+      permalink: :title
 
 comments:
   provider : "facebook"
