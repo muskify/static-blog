@@ -8,13 +8,13 @@ excerpt: 'Você precisa se conhecer: saber qual é seu tempo ideal de sono, qual
 author: keziah
 image: "/assets/uploads/screen-shot-2020-07-12-at-3-09-57-am.png"
 readingtime: 9
-date: 2020-07-12 03:00:00 +0000
+date: 2020-07-12T03:00:00.000+00:00
 categories:
 - Produtividade
 - Qualidade de vida
 
 ---
-Olá pessoal! 
+Olá pessoal!
 
 Bom, hoje vamos dar início a uma série de três textos que abordarão “Gestão de Energia”. O objetivo é te fazer entender como ela impacta diretamente a sua organização diária, sua produtividade e saúde.
 
@@ -38,9 +38,14 @@ Muitas pessoas apresentam distúrbios no sono, como a insônia, a apneia e o son
 
 O sono é dividido em 4 etapas, são elas:
 
-tabela
+| ETAPAS | FREQUÊNCIA DAS ONDAS CEREBRAIS | DESCRIÇÃO |
+| --- | --- | --- |
+| FASE 1 | (4 – 13 Hz) | Perde tônus muscular e diminui a consciência do ambiente externo. |
+| FASE 2 | (12 -16 Hz) | Maior relaxamento muscular e ocupa cerca de 45-55% do tempo total do sono nos adultos. |
+| FASE 3 | (0,5 – 4 Hz) | Sono profundo (SWS). |
+| FASE 4 - REM | (8 – 30 Hz) | Atonia muscular (exceto o movimento ocular). Ocupa cerca de 20-25% do tempo total do sono nos adultos. |
 
-_Tabela feita baseada na que está exposta no artigo:_ [_Figuerola, W., &amp; Ribeiro, S. (2013). Sono e plasticidade_](http://www.revistas.usp.br/revusp/article/view/69222 "Sono e plasticidade")
+_Tabela feita baseada na que está exposta no artigo:_ [_Figuerola, W., & Ribeiro, S. (2013). Sono e plasticidade_](http://www.revistas.usp.br/revusp/article/view/69222 "Sono e plasticidade")
 
 * As três primeiras nos concedem a sincronização dos neurônios. Aqui,
 
