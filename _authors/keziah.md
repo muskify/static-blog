@@ -13,7 +13,6 @@ profile: Estudante de Engenharia Biomédica pela Universidade Federal de São Pa
 image: "/assets/uploads/screen-shot-2020-07-12-at-3-04-53-am.png"
 permalink: "/keziah"
 layout: author
-published: false
 
 ---
 Estudante de Engenharia Biomédica pela Universidade Federal de São Paulo (UNIFESP). Fui também aprovada em Engenharia Bioquímica pela USP, Engenharia de Bioprocessos e Biotecnologia pela Federal do Paraná (UFPR) e Química na Federal de Goiás (UFG). Faço parte como coordenadora da área de Engenharia Biomédica do Projeto Networking (@projetonetworkingpvt).
