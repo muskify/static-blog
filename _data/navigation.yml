@@ -1,4 +1,6 @@
-- name: Sobre o app
-  link: /
+# - name: Sobre o app
+#   link: /
+# - name: Blog
+#   link: /blog
 - name: Blog
-  link: /blog
+  link: /
