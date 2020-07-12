@@ -25,7 +25,8 @@ layout: default
                                 <br />
                                 <small class="text-muted">
                                     <time datetime="{{ post.date | date_to_xmlschema }}">
-                                        {% include date.html date=page.date %} • {{ page.readingtime }} minutos de leitura
+                                        {% include date.html date=page.date %} • {{ page.readingtime }} minutos de
+                                        leitura
                                     </time>
                                 </small>
                             </div>
@@ -68,14 +69,16 @@ layout: default
             <br />
         </div>
     </div>
-    <div class="col-12 col-sm-12 col-md-8 col-lg-8 col-xl-8 post-images" style="padding-left: 30px; padding-right: 30px;">
+    <div class="col-12 col-sm-12 col-md-8 col-lg-8 col-xl-8 post-images"
+        style="padding-left: 30px; padding-right: 30px;">
         {{ content }}
     </div>
     <div class="col-12 col-sm-12 col-md-2 col-lg-2 col-xl-2" style="padding: 30px; text-align: left;">
         <div style="position: sticky;top: 30px;">
+            {% assign posts = site.posts | where_exp:"post","post.url != page.url" %}
+            {% if posts.size > 0 %}
             <h6 style="left: -15px; color: lightblue;">MAIS RECENTES</h6>
             <div class="thin-verticalbar">
-                {% assign posts = site.posts | where_exp:"post","post.url != page.url" %}
                 {% for post in posts limit: 3 | sort: "last" %}
                 {% assign otherauthor = site.authors | where:"identifier",post.author | first %}
                 <a class="custom-card" href="{{ post.url | relative_url}}">
@@ -86,14 +89,18 @@ layout: default
                 <hr />
                 {% endfor %}
             </div>
+            {% endif %}
         </div>
     </div>
     <div class="container">
-        <p style="font-weight: bold; padding: 30px;">O que você achou deste conteúdo? Deixe um comentário aqui embaixo, vou adorar saber sua opinião!</p>
+        <p style="font-weight: bold; padding: 30px;">O que você achou deste conteúdo? Deixe um comentário aqui embaixo,
+            vou adorar saber sua opinião!</p>
         <div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-width="100%"></div>
         <br />
+        {% if posts.size > 0 %}
         <p style="font-weight: bold; opacity: 0.7;padding-left: 30px;">LEIA TAMBÉM</p>
         {% assign posts = posts | sample: 3 %}
         {% include posts.html posts=posts %}
+        {% endif %}
     </div>
 </div>
