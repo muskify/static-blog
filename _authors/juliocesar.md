@@ -3,18 +3,16 @@ title: Julio Cesar
 identifier: juliocesar
 name: Julio Cesar Duarte
 sex: Muskiano
-email: ''
+email: juliocesar230398@hotmail.com
 instagram: https://www.instagram.com/julio.cesar.duarte/
-profile: In publishing and graphic design, Lorem ipsum is a placeholder text commonly
-  used to demonstrate the visual form of a document or a typeface without relying
-  on meaningful content. Wikipedia
+profile: Estudante de Engenharia da Computação no Instituto Tecnológico de Aeronáutica
+  (ITA). Também fui aprovado 3 vezes no IME (Instituto Militar de Engenharia), 2 vezes
+  na  AFA (Academia da Força Aérea) e em Engenharia Mecânica na Universidade Federal
+  de Goiás (UFG) e na Universidade Federal do Ceará (UFC). Faço parte como membro
+  no CASD (Curso Alberto Santos Dumont), trabalhando na área de Educação.
 image: "/assets/uploads/aaa.jpg"
 permalink: "/juliocesar"
 layout: author
 
 ---
-aidjaiosd [publishing](https://en.wikipedia.org/wiki/Publishing "Publishing") and [graphic design](https://en.wikipedia.org/wiki/Graphic_design "Graphic design"), **_Lorem ipsum_** is a [placeholder text](https://en.wikipedia.org/wiki/Placeholder_text "Placeholder text") commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. _Lorem ipsum_ may be used before final [copy](https://en.wikipedia.org/wiki/Copy_(written) "Copy (written)") is available, but it may also be used to temporarily replace copy in a process called [greeking](https://en.wikipedia.org/wiki/Greeking "Greeking"), which allows designers to consider form without the meaning of the text influencing the design.
-
-_Lorem ipsum_ is typically a corrupted version of [_De finibus bonorum et malorum_](https://en.wikipedia.org/wiki/De_finibus_bonorum_et_malorum "De finibus bonorum et malorum"), a first-century BC text by the [Roman](https://en.wikipedia.org/wiki/Roman_Republic "Roman Republic") statesman and philosopher [Cicero](https://en.wikipedia.org/wiki/Cicero "Cicero"), with words altered, added, and removed to make it nonsensical, improper [Latin](https://en.wikipedia.org/wiki/Latin "Latin").
-
-Versions of the _Lorem ipsum_ text have been used in [typesetting](https://en.wikipedia.org/wiki/Typesetting "Typesetting") at least since the 1960s, when it was popularized by advertisements for [Letraset](https://en.wikipedia.org/wiki/Letraset "Letraset") transfer sheets. _Lorem ipsum_ was introduced to the digital world in the mid-1980s when [Aldus](https://en.wikipedia.org/wiki/Aldus "Aldus") employed it in graphic and word-processing templates for its desktop publishing program [PageMaker](https://en.wikipedia.org/wiki/Adobe_PageMaker "Adobe PageMaker"). Other popular [word processors](https://en.wikipedia.org/wiki/Word_processor_(electronic_device) "Word processor (electronic device)") including [Pages](https://en.wikipedia.org/wiki/Pages_(word_processor) "Pages (word processor)") and [Microsoft Word](https://en.wikipedia.org/wiki/Microsoft_Word "Microsoft Word") have since adopted _Lorem ipsum_ as well.
+Apaixonado em escrever sobre as coisas do mundo. Sempre tento levar um ponto de reflexão, um pensamento sobre as dificuldades da vida de um estudante. Não me considero profissional no assunto, mas tenho muitas histórias e experiências da minha trajetória de vida, que não está nem perto de acabar. Acredito que cada pessoa pode fazer diferença no mundo levando um pouco de esperança para alguém. Não sei o que eu quero do futuro ainda, mas estou sempre disposto a bater um bom papo com você aqui no presente!
