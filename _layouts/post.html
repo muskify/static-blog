@@ -18,7 +18,7 @@ layout: default
                     <a href="{{author.url | relative_url}}" class="custom-card">
                         <div class="d-flex flex-row">
                             <div class="p-2 my-auto">
-                                <img class="thumbnail" src="{{ author.image | relative_url }}">
+                                <img class="thumbnail" src="{{ author.image | relative_url }}" loading="lazy">
                             </div>
                             <div class="p-2 my-auto">
                                 <small>por {{ author.name }}</small>
@@ -64,12 +64,12 @@ layout: default
                             <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ site.baseurl }}{{ page.url }}&title={{ page.title }}&summary={{ page.description }}&source={{ site.title }}"
                                 onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
                                 title="Share on Facebook">
-                                <img class="icon" src="{{ "/assets/img/facebook.svg" | relative_url }}">
+                                <img class="icon" src="{{ "/assets/img/facebook.svg" | relative_url }}" loading="lazy">
                             </a>
                             <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ site.baseurl }}{{ page.url }}&title={{ page.title }}&summary={{ page.description }}&source={{ site.title }}"
                                 onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
                                 title="Share on LinkedIn">
-                                <img class="icon" src="{{ "/assets/img/linkedin.png" | relative_url }}">
+                                <img class="icon" src="{{ "/assets/img/linkedin.png" | relative_url }}" loading="lazy">
                             </a>
                         </div>
                     </div>
