@@ -32,7 +32,7 @@ Nesse período, nosso cérebro metaboliza toxinas, desintoxica-se, promove a reg
 
 Muitas pessoas apresentam distúrbios no sono, como a insônia, a apneia e o sonambulismo, e esses podem ter origens externas. Como assim? Bom, externo é algo “de fora”, algo que não “veio com você”, algo que você mesmo possa ter provocado, de maneira direta ou indireta (e não se sinta culpado por isso, apenas tente revertê-los), como mexer no celular antes de ir dormir ou dormir com a televisão ligada – essas inibem a ação da melatonina, que é o hormônio responsável, entre algumas outras funções, pela regulação dos ciclos de sono/vigília -, e até mesmo viver sob constante ansiedade.
 
-É necessária a ação de profissionais, como hipnoterapeutas, fisioterapeutas e médicos do sono, para conseguir reorganizar seu sono. [Não trata-los hoje, pode te trazer malefícios futuramente, como o Mal de Alzheimer](https://stm.sciencemag.org/content/11/474/eaau6550#:\~:text=Losing%20sleep%20over%20Alzheimer's%20disease&text=Lucey%20et%20al.,deposition%20in%20several%20brain%20areas. "Reduced non–rapid eye movement sleep is associated with tau pathology in early Alzheimer’s disease") – uma das funções do sono é promover a desintoxicação cerebral e é durante as primeiras fases dele (sono de ondas lentas ou sono profundo) que as proteínas alteradas do Alzheimer são “varridas”, passam por uma “limpeza”.
+É necessária a ação de profissionais, como hipnoterapeutas, fisioterapeutas e médicos do sono, para conseguir reorganizar seu sono. Não trata-los hoje, pode te trazer malefícios futuramente, como o Mal de Alzheimer – uma das funções do sono é promover a desintoxicação cerebral e é durante as primeiras fases dele (sono de ondas lentas ou sono profundo) que as proteínas alteradas do Alzheimer são “varridas”, passam por uma “limpeza”.
 
 #### AS QUATRO ETAPAS DO SONO
 
@@ -47,13 +47,7 @@ O sono é dividido em 4 etapas, são elas:
 
 _Tabela feita baseada na que está exposta no artigo:_ [_Figuerola, W., & Ribeiro, S. (2013). Sono e plasticidade_](http://www.revistas.usp.br/revusp/article/view/69222 "Sono e plasticidade")
 
-* As três primeiras nos concedem a sincronização dos neurônios. Aqui,
-
-  encontra-se ondas lentas e consolidam-se as memórias DECLARATIVAS,
-
-  ou seja, aquelas que nós conseguimos declarar, falar com facilidade, por
-
-  exemplo: um lugar, um evento, pessoas...
+* As três primeiras nos concedem a sincronização dos neurônios. Aqui, encontra-se ondas lentas e consolidam-se as memórias DECLARATIVAS, ou seja, aquelas que nós conseguimos declarar, falar com facilidade, por exemplo: um lugar, um evento, pessoas...
 * Já a quarta etapa, é a que chamamos de sono REM (Rapid Eye Movement). Esse estágio se dá quando as ondas neurais estão dessincronizadas, nosso cérebro está superativo. Para os cientistas franceses é um paradoxo, tanto que ao invés de usarem a sigla em inglês, o chamam de Sono Paradoxal, já que esse é o momento de grande desligamento e maior relaxamento muscular (atonia muscular), embora haja movimento ocular rápido, assim como o nome sugere. Nesse momento, as memórias de PROCEDIMENTO estão sendo consolidadas. Essas são ações mais complexas que fazemos, como andar de bicicleta, jogar futebol, escrever ou qualquer habilidade motora, além das questões emocionais de cada um. Porém, uma vez consolidada em nossa mente, não esquecemos nunca mais. Quem que, aprendendo a andar de bicicleta, ou aprendendo a dirigir, se esquece depois de 20, 30, 40 anos? Não conheço ninguém.
 
 Dessa maneira, vemos que esse, sem qualquer dúvida, é o momento mais importante de nosso sono! [Ele está relacionado com nosso APRENDIZADO](https://psycnet.apa.org/record/1926-08168-001 "Obliviscence During Sleep and Waking.").
