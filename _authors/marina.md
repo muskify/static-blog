@@ -6,9 +6,9 @@ sex: Muskiana
 position: Mentora
 email: igor.bragaia@gmail.com
 instagram: https://www.instagram.com/estudita_del/
-profile: Atual estudante do ITA (Instituto Tecnológico de Aeronáutica), anteriormente
-  sendo aprovada também 3 vezes no IME (Instituto Militar de Engenharia) e 3 vezes
-  na AFA (Academia da Força Aérea). Algum tempo antes de se envolver com os vestibulares
+profile: Estudante do ITA (Instituto Tecnológico de Aeronáutica), anteriormente sendo
+  aprovada também 3 vezes no IME (Instituto Militar de Engenharia) e 3 vezes na AFA
+  (Academia da Força Aérea). Algum tempo antes de se envolver com os vestibulares
   militares também obteve aprovações em Engenharia em universidades federais, como
   a UFMG (Universidade Federal de Minas Gerais). Foi uma das organizadores do I Simpósio
   Brasileiro de Mulheres em STEM (ISMSTEM), ocorrido no ITA.
