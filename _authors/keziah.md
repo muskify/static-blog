@@ -3,8 +3,8 @@ title: Keziah
 identifier: keziah
 name: Keziah
 sex: Muskiana
-email: placeholder@gmail.com
-instagram: ''
+email: ''
+instagram: https://www.instagram.com/k.engmed/
 profile: Estudante de Engenharia Biomédica pela Universidade Federal de São Paulo
   (UNIFESP). Também aprovada em Engenharia Bioquímica pela USP, Engenharia de Bioprocessos
   e Biotecnologia pela Federal do Paraná (UFPR) e Química na Federal de Goiás (UFG).
