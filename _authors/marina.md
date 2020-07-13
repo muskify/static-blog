@@ -1,16 +1,20 @@
 ---
-title: Marina (Del)
+title: Marina
 identifier: marina
-name: Marina (Del)
+name: Marina
 sex: Muskiana
 position: Mentora
 email: igor.bragaia@gmail.com
 instagram: https://www.instagram.com/estudita_del/
-profile: '"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,
-  adipisci velit..."'
+profile: Atual estudante do ITA (Instituto Tecnológico de Aeronáutica), anteriormente
+  sendo aprovada também 3 vezes no IME (Instituto Militar de Engenharia) e 3 vezes
+  na AFA (Academia da Força Aérea). Algum tempo antes de se envolver com os vestibulares
+  militares também obteve aprovações em Engenharia em universidades federais, como
+  a UFMG (Universidade Federal de Minas Gerais). Foi uma das organizadores do I Simpósio
+  Brasileiro de Mulheres em STEM (ISMSTEM), ocorrido no ITA.
 image: assets/uploads/marina.jpeg
 permalink: "/marina"
 layout: author
 
 ---
-**Lorem Ipsum** is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Sempre gostei do assunto de produtividade e organização. Durante uma época virei aquela amiga louca que toda semana está recomendando um livro de gestão de tempo e de organização pessoal. A febre passou, mas o aprendizado ficou e ainda adoro aprender mais na área do alto desempenho. Quanto mais aprendo e consigo aplicar, mais consigo realizar as tarefas com tranquilidade e qualidade. Sou da área de exatas, com certeza, mas também um pouquinho de humanas: se quiserem me recomendar livro ou série, vamos nos dar muito bem!
