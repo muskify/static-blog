@@ -1,6 +1,10 @@
 ---
 layout: default
 ---
+<!-- add the button style & script -->
+<link rel="stylesheet" href="{{ "/assets/js/applause-button/dist/applause-button.css" | relative_url }}" />
+<script src="{{ "/assets/js/applause-button/dist/applause-button.js" | relative_url }}" ></script>
+
 {% assign author = site.authors | where:"identifier",page.author | first %}
 
 <div class="vertically-spaced post-background-image" style="background-image: url({{page.image | relative_url}});">
@@ -57,6 +61,9 @@ layout: default
                         <applause-button style="width: 58px; height: 58px; float: right; vertical-align: middle;"
                             multiclap="true" class="clapped clap" />
                     </div>
+                    <br />
+                    <br />
+                    <br />
                 </div>
                 <div class="col-5 col-sm-5 col-md-12 col-lg-12 col-xl-12">
                     <p style="font-weight: bold; opacity: 0.7;">COMPARTILHE</p>
