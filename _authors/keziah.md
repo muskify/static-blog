@@ -1,5 +1,5 @@
 ---
-title: keziah
+title: Keziah
 identifier: keziah
 name: Keziah
 sex: Muskiana
