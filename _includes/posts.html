@@ -21,10 +21,10 @@
                 {% assign author = site.authors | where:"identifier",post.author | first %}
                 <a href="{{author.url | relative_url}}" class="custom-card">
                     <div class="d-flex flex-row">
-                        <div class="p-2 my-auto">
+                        <div class="my-auto" style="padding-top: 5px;">
                             <img class="thumbnail" src="{{ author.image | relative_url }}" loading="lazy">
                         </div>
-                        <div class="p-2 my-auto">
+                        <div class="my-auto" style="padding-top: 5px; padding-left: 15px">
                             <p class="card-text">
                                 <small>por {{ author.name }}</small>
                                 <br />
