@@ -12,14 +12,18 @@ layout: default
             <div class="col col-10 col-sm-10 col-md-10 col-lg-10 col-xl-10">
                 <span style="font-weight: bold; font-size: 30px; padding-left: 20px;">{{page.sex}}
                     {{ page.name }}</span>
-                <a href="https://www.instagram.com/muskify.app/" style="padding-left: 20px;">
+                {% if page.instagram != nil %}
+                <a href="{{ page.instagram }}" style="padding-left: 20px;">
                     <img class="icon" src="{{ "/assets/img/instagram.svg" | relative_url }}"
                         style="width: 25px; height: 25px;" loading="lazy">
                 </a>
-                <a href="mailto:igor.bragaia@gmail.com" style=" padding-left: 20px;">
+                {% endif %}
+                {% if page.email != nil %}
+                <a href="mailto:{{ page.email }}" style=" padding-left: 20px;">
                     <img class="icon" src="{{ "/assets/img/gmail.png" | relative_url }}"
                         style="width: 25px; height: 25px;" loading="lazy">
                 </a>
+                {% endif %}
                 <div class="text-muted" style="padding-left: 20px; padding-right: 30px;">{{ page.profile }}</div>
             </div>
         </div>
