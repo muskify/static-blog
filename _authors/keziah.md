@@ -9,7 +9,7 @@ profile: Estudante de Engenharia Biomédica pela Universidade Federal de São Pa
   (UNIFESP). Também aprovada em Engenharia Bioquímica pela USP, Engenharia de Bioprocessos
   e Biotecnologia pela Federal do Paraná (UFPR) e Química na Federal de Goiás (UFG).
   É coordenadora da área de Engenharia Biomédica do Projeto Networking (@projetonetworkingpvt).
-image: "/assets/uploads/screen-shot-2020-07-12-at-3-04-53-am.png"
+image: "/assets/uploads/keziah.jpg"
 permalink: "/keziah"
 layout: author
 
