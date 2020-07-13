@@ -22,9 +22,9 @@ Cada texto vai abordar um ponto da tríade: Sono, Alimentação e Atividade Fís
 
 Fique ligado nos próximos textos e nos conte, a cada postagem de nossa série, o que está achando e se para você é fácil ou não administrar cada tópico! Boa leitura! 😊
 
-## O SONO E SUAS ESPECIFICIDADES
+## \\O SONO E SUAS ESPECIFICIDADES\\
 
-#### O QUE É O SONO E SUA RELEVÂNCIA
+#### \\O QUE É O SONO E SUA RELEVÂNCIA\\
 
 O sono é um comportamento. Enquanto dormimos nosso cérebro e corpo trabalham para nos manter vivos. É um paradoxo pensarmos que quando estamos dormindo estamos nos exercitando e trabalhando, mas é a verdade.
 
@@ -34,7 +34,7 @@ Muitas pessoas apresentam distúrbios no sono, como a insônia, a apneia e o son
 
 É necessária a ação de profissionais, como hipnoterapeutas, fisioterapeutas e médicos do sono, para conseguir reorganizar seu sono. Não trata-los hoje, pode te trazer malefícios futuramente, como o Mal de Alzheimer – uma das funções do sono é promover a desintoxicação cerebral e é durante as primeiras fases dele (sono de ondas lentas ou sono profundo) que as proteínas alteradas do Alzheimer são “varridas”, passam por uma “limpeza”.
 
-#### AS QUATRO ETAPAS DO SONO
+#### \\AS QUATRO ETAPAS DO SONO\\
 
 O sono é dividido em 4 etapas, são elas:
 
@@ -52,15 +52,15 @@ _Tabela feita baseada na que está exposta no artigo:_ [_Figuerola, W., & Ribeir
 
 Dessa maneira, vemos que esse, sem qualquer dúvida, é o momento mais importante de nosso sono! [Ele está relacionado com nosso APRENDIZADO](https://psycnet.apa.org/record/1926-08168-001 "Obliviscence During Sleep and Waking.").
 
-## A IMPORTÂNCIA DO SONO
+## \\A IMPORTÂNCIA DO SONO\\
 
-#### “BRAINCARE”
+#### \\“BRAINCARE”\\
 
 Bom, aprendemos que é durante o sono que reorganizamos tudo o que aconteceu conosco em um dia: revivemos e concretizamos memórias, jogamos coisas fora e colocamos outras no lugar. Mas agora, é válido entendermos mais a fundo o por que devemos cuidar muito bem de nosso cérebro.
 
 Enquanto dormimos, nosso cérebro está em constante exercício – não é à toa que cerca de 70% de nossa energia se destine a ele. Dessa forma, já conseguimos visualizar a alimentação tomando conta da cena, mas esse é um tópico para o próximo texto da série.... Contudo, sim, alimentar-se de maneira saudável é ter um grande aliado ao seu lado.
 
-#### MEMÓRIA E CONHECIMENTO
+#### \\MEMÓRIA E CONHECIMENTO\\
 
 Criar uma rotina para seu sono é algo extremamente válido e precioso. Termos um cronograma que promova a regulação do sono pode te ajudar muito a ser uma pessoa mais produtiva, menos esquecida, mais disposta, entre vários benefícios que o sono pode nos oferecer! É por isso que quando éramos crianças e/ou adolescentes nossos pais nos faziam dormir cedo ou não nos deixavam ficar acordados até muito tarde. E eles estavam certos!
 
@@ -70,7 +70,7 @@ Acredito, então, porque foi o que melhor funcionou para mim, que montar um cron
 
 Muito observado em adolescentes e jovens, o “varar a noite” é algo normal, seja por necessidade, por alguma irregularidade ou por pura “diversão” (quem nunca? Kkk). Há o mito de que é necessário saber de tudo o que ocorre no mundo e a obrigação de ficar on-line o tempo todo para conseguir mais seguidores ou aumentar a estima. Porém, em vez do “Fear of missing out” (FOMO - Medo de perder algo) – expressão comum utilizada pelos norte-americanos, o “Fear to loose my knoledge” (Medo de perder meu conhecimento) seria o mais apropriado. E seu conhecimento não cai do céu e entra na sua cabeça, ele precisa ser absorvido, consolidado e gravado. E uma das maneiras disso ocorrer é dormindo bem!
 
-#### AUTOCONHECIMENTO E TRÍADE
+#### \\AUTOCONHECIMENTO E TRÍADE\\
 
 Como exposto anteriormente, o sono mais importante é o sono REM e para alcançarmos tal estágio necessitamos passar pelos três grandes, necessariamente. É por isso que se valoriza tanto o “dormir bem”. Ter um sono equilibrado na maior parte da noite, já que passamos por alguns ciclos das 4 fases ao longo do sono, é crucial para seus desempenhos.
 
