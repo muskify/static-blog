@@ -12,7 +12,7 @@ profile: Estudante do ITA (Instituto Tecnológico de Aeronáutica), anteriorment
   militares também obteve aprovações em Engenharia em universidades federais, como
   a UFMG (Universidade Federal de Minas Gerais). Foi uma das organizadores do I Simpósio
   Brasileiro de Mulheres em STEM (ISMSTEM), ocorrido no ITA.
-image: assets/uploads/marina.jpeg
+image: assets/uploads/marina.jpg
 permalink: "/marina"
 layout: author
 
