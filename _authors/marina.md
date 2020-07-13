@@ -4,7 +4,7 @@ identifier: marina
 name: Marina
 sex: Muskiana
 position: Mentora
-email: igor.bragaia@gmail.com
+email: ''
 instagram: https://www.instagram.com/estudita_del/
 profile: Estudante do ITA (Instituto Tecnológico de Aeronáutica), anteriormente sendo
   aprovada também 3 vezes no IME (Instituto Militar de Engenharia) e 3 vezes na AFA
