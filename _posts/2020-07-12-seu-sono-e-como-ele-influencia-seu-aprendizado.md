@@ -6,7 +6,7 @@ excerpt: 'Você precisa se conhecer: saber qual é seu tempo ideal de sono, qual
   organizá-las de maneira que seu dia seja eficiente e produtivo, sem te sobrecarregar
   e levar, depois de um período, à exaustão.'
 author: keziah
-image: "/assets/uploads/screen-shot-2020-07-12-at-3-09-57-am.png"
+image: "/assets/uploads/xita.jpg"
 readingtime: 9
 date: 2020-07-12T03:00:00.000+00:00
 categories:
