@@ -7,7 +7,7 @@ excerpt: 'Você precisa se conhecer: saber qual é seu tempo ideal de sono, qual
   e levar, depois de um período, à exaustão.'
 author: keziah
 image: "/assets/uploads/annie-spratt-bxt-twsf-ko-unsplash.jpg"
-readingtime: 9
+readingtime: 6
 date: 2020-07-12T03:00:00.000+00:00
 categories:
 - Produtividade
@@ -20,7 +20,7 @@ Bom, hoje vamos dar início a uma série de três textos que abordarão “Gest�
 
 Cada texto vai abordar um ponto da tríade: Sono, Alimentação e Atividade Física. Confira no texto de hoje a **_influência do sono em seu aprendizado_**.
 
-Fique ligado nos próximos textos e nos conte, a cada postagem de nossa série, o que está achando e se para você é fácil ou não administrar cada tópico! Boa leitura! 😊
+Boa leitura! 😊
 
 ## O SONO E SUAS ESPECIFICIDADES
 
@@ -64,7 +64,7 @@ Enquanto dormimos, nosso cérebro está em constante exercício – não é à t
 
 Criar uma rotina para seu sono é algo extremamente válido e precioso. Termos um cronograma que promova a regulação do sono pode te ajudar muito a ser uma pessoa mais produtiva, menos esquecida, mais disposta, entre vários benefícios que o sono pode nos oferecer! É por isso que quando éramos crianças e/ou adolescentes nossos pais nos faziam dormir cedo ou não nos deixavam ficar acordados até muito tarde. E eles estavam certos!
 
-O desenvolvimento intelectual é melhor consolidado quando há um ótimo descanso antes e depois de ter adquirido o conhecimento. A consolidação da memória se torna eficiente. É por isso que, geralmente, pessoas que não dormem de maneira adequada (tanto pela questão econômica quanto psíquica), apresentam déficits de aprendizado e de memória. Além disso, aqueles que não se alimentam bem ou não se exercitam (seja por questões financeiras ou por negligência) agravam essa condição.
+O desenvolvimento intelectual é melhor consolidado quando há um ótimo descanso antes e depois de ter adquirido o conhecimento. A consolidação da memória se torna eficiente. É por isso que, geralmente, pessoas que não dormem de maneira adequada apresentam déficits de aprendizado e de memória. Além disso, aqueles que não se alimentam bem ou não se exercitam (seja por questões financeiras ou por negligência) agravam essa condição.
 
 Acredito, então, porque foi o que melhor funcionou para mim, que montar um cronograma/rotina te ajudará bastante a resolver esse(s) impasse(s).
 
@@ -78,4 +78,4 @@ Você precisa se conhecer: saber qual é seu tempo ideal de sono, qual é seu ho
 
 Assim, conhecendo-se a si mesmo, assim como propôs Sócrates em um de seus diálogos escrito por Platão, você será capaz de mudar. A mudança está baseada na tríade: sono, alimentação e atividade física.
 
-Fique ligado, pois no próximo texto iremos comprovar a eficácia de ter uma boa alimentação a fim de obter bons resultados! 😆
+Fique ligado nos próximos textos e nos conte, a cada postagem de nossa série, o que está achando e se para você é fácil ou não administrar cada tópico! 
