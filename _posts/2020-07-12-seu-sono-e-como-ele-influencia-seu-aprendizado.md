@@ -6,7 +6,7 @@ excerpt: 'Você precisa se conhecer: saber qual é seu tempo ideal de sono, qual
   organizá-las de maneira que seu dia seja eficiente e produtivo, sem te sobrecarregar
   e levar, depois de um período, à exaustão.'
 author: keziah
-image: "/assets/uploads/xita.jpg"
+image: "/assets/uploads/annie-spratt-bxt-twsf-ko-unsplash.jpg"
 readingtime: 9
 date: 2020-07-12T03:00:00.000+00:00
 categories:
@@ -26,7 +26,7 @@ Fique ligado nos próximos textos e nos conte, a cada postagem de nossa série, 
 
 #### O QUE É O SONO E SUA RELEVÂNCIA
 
-O sono é um comportamento. Enquanto dormimos nosso cérebro e corpo trabalham para nos manter vivos. É um paradoxo pensarmos que quando estamos dormindo estamos nos exercitando e trabalhando, mas é a verdade.
+O sono é um comportamento. Enquanto dormimos nosso cérebro e corpo trabalham para nos manter vivos. É um paradoxo pensarmos que quando estamos dormindo estamos nos exercitando e trabalhando, mas é a verdade!
 
 Nesse período, nosso cérebro metaboliza toxinas, desintoxica-se, promove a regulação hormonal, reestrutura neurônios e a memória, repõe metabólitos, entre uma série de processos que são essenciais para nosso desenvolvimento e homeostase.
 
@@ -48,15 +48,15 @@ O sono é dividido em 4 etapas, são elas:
 _Tabela feita baseada na que está exposta no artigo:_ [_Figuerola, W., & Ribeiro, S. (2013). Sono e plasticidade_](http://www.revistas.usp.br/revusp/article/view/69222 "Sono e plasticidade")
 
 * As três primeiras nos concedem a sincronização dos neurônios. Aqui, encontra-se ondas lentas e consolidam-se as memórias DECLARATIVAS, ou seja, aquelas que nós conseguimos declarar, falar com facilidade, por exemplo: um lugar, um evento, pessoas...
-* Já a quarta etapa, é a que chamamos de sono REM (Rapid Eye Movement). Esse estágio se dá quando as ondas neurais estão dessincronizadas, nosso cérebro está superativo. Para os cientistas franceses é um paradoxo, tanto que ao invés de usarem a sigla em inglês, o chamam de Sono Paradoxal, já que esse é o momento de grande desligamento e maior relaxamento muscular (atonia muscular), embora haja movimento ocular rápido, assim como o nome sugere. Nesse momento, as memórias de PROCEDIMENTO estão sendo consolidadas. Essas são ações mais complexas que fazemos, como andar de bicicleta, jogar futebol, escrever ou qualquer habilidade motora, além das questões emocionais de cada um. Porém, uma vez consolidada em nossa mente, não esquecemos nunca mais. Quem que, aprendendo a andar de bicicleta, ou aprendendo a dirigir, se esquece depois de 20, 30, 40 anos? Não conheço ninguém.
+* Já a quarta etapa, é a que chamamos de sono REM (Rapid Eye Movement). Esse estágio se dá quando as ondas neurais estão dessincronizadas, nosso cérebro está superativo. Para os cientistas franceses é um paradoxo, tanto que ao invés de usarem a sigla em inglês, o chamam de Sono Paradoxal, já que esse é o momento de grande desligamento e maior relaxamento muscular (atonia muscular), embora haja movimento ocular rápido, assim como o nome sugere. Nesse instante, as memórias de PROCEDIMENTO estão sendo consolidadas. Essas são ações mais complexas que fazemos, como andar de bicicleta, jogar futebol, escrever ou qualquer habilidade motora, além das questões emocionais de cada um. Porém, uma vez consolidada em nossa mente, não esquecemos nunca mais. Quem que, aprendendo a andar de bicicleta, ou aprendendo a dirigir, se esquece depois de 20, 30, 40 anos? Não conheço ninguém.
 
-Dessa maneira, vemos que esse, sem qualquer dúvida, é o momento mais importante de nosso sono! [Ele está relacionado com nosso APRENDIZADO](https://psycnet.apa.org/record/1926-08168-001 "Obliviscence During Sleep and Waking.").
+Dessa maneira, vemos que esse, sem qualquer dúvida, é o momento mais importante de nosso sono! Ele está relacionado com nosso APRENDIZADO.
 
 ## A IMPORTÂNCIA DO SONO
 
 #### “BRAINCARE”
 
-Bom, aprendemos que é durante o sono que reorganizamos tudo o que aconteceu conosco em um dia: revivemos e concretizamos memórias, jogamos coisas fora e colocamos outras no lugar. Mas agora, é válido entendermos mais a fundo o por que devemos cuidar muito bem de nosso cérebro.
+Bom, aprendemos que é durante o sono que reorganizamos tudo o que aconteceu conosco em um dia: revivemos e concretizamos memórias, jogamos coisas fora e colocamos outras no lugar. Mas agora, é válido entendermos mais a fundo o por que devemos cuidar muito bem de nossa mente.
 
 Enquanto dormimos, nosso cérebro está em constante exercício – não é à toa que cerca de 70% de nossa energia se destine a ele. Dessa forma, já conseguimos visualizar a alimentação tomando conta da cena, mas esse é um tópico para o próximo texto da série.... Contudo, sim, alimentar-se de maneira saudável é ter um grande aliado ao seu lado.
 
@@ -68,7 +68,7 @@ O desenvolvimento intelectual é melhor consolidado quando há um ótimo descans
 
 Acredito, então, porque foi o que melhor funcionou para mim, que montar um cronograma/rotina te ajudará bastante a resolver esse(s) impasse(s).
 
-Muito observado em adolescentes e jovens, o “varar a noite” é algo normal, seja por necessidade, por alguma irregularidade ou por pura “diversão” (quem nunca? Kkk). Há o mito de que é necessário saber de tudo o que ocorre no mundo e a obrigação de ficar on-line o tempo todo para conseguir mais seguidores ou aumentar a estima. Porém, em vez do “Fear of missing out” (FOMO - Medo de perder algo) – expressão comum utilizada pelos norte-americanos, o “Fear to loose my knoledge” (Medo de perder meu conhecimento) seria o mais apropriado. E seu conhecimento não cai do céu e entra na sua cabeça, ele precisa ser absorvido, consolidado e gravado. E uma das maneiras disso ocorrer é dormindo bem!
+Muito observado em adolescentes e jovens, o “varar a noite” é algo normal, seja por necessidade, por alguma irregularidade ou por pura “diversão” (quem nunca? Kkk). Há o mito de que é necessário saber de tudo o que ocorre no mundo e a obrigação de ficar on-line o tempo todo para conseguir mais seguidores ou aumentar a estima. Porém, em vez do “Fear of missing out” (FOMO - Medo de perder algo), o “Fear to loose my knoledge” (Medo de perder meu conhecimento) seria o mais apropriado. E seu conhecimento não cai do céu e entra na sua cabeça, ele precisa ser absorvido, consolidado e gravado. E uma das maneiras disso ocorrer é dormindo bem!
 
 #### AUTOCONHECIMENTO E TRÍADE
 
