@@ -63,6 +63,10 @@
             js.src = "//connect.facebook.net/pt_BR/all.js#xfbml=1&appId=198009671305681";
             fjs.parentNode.insertBefore(js, fjs);
         }(document, 'script', 'facebook-jssdk'));</script>
+
+    {% if jekyll.environment == "production" %}
+    {% include embed/active_campaign.html %}
+    {% endif %}
 </body>
 
 </html>
