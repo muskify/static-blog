@@ -7,7 +7,7 @@ excerpt: A dose de coragem deve ser alta, mas a recompensa de ser livre em si me
 author: juliocesar
 image: "/assets/uploads/carrousel6.jpeg"
 readingtime: 5
-date: 2020-07-12 03:01:00 +0000
+date: 2020-07-12T03:01:00.000+00:00
 categories:
 - Autoconhecimento
 
