@@ -78,4 +78,4 @@ Você precisa se conhecer: saber qual é seu tempo ideal de sono, qual é seu ho
 
 Assim, conhecendo-se a si mesmo, assim como propôs Sócrates em um de seus diálogos escrito por Platão, você será capaz de mudar. A mudança está baseada na tríade: sono, alimentação e atividade física.
 
-Fique ligado nos próximos textos e nos conte, a cada postagem de nossa série, o que está achando e se para você é fácil ou não administrar cada tópico! 
+Fique ligado nos próximos textos e nos conte, a cada postagem de nossa série, o que está achando e se para você é fácil ou não administrar cada tópico!
