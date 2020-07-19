@@ -3,18 +3,18 @@ layout: default
 ---
 <!-- add the button style & script -->
 <link rel="stylesheet" href="{{ "/assets/js/applause-button/dist/applause-button.css" | relative_url }}" />
-<script src="{{ "/assets/js/applause-button/dist/applause-button.js" | relative_url }}" ></script>
+<script src="{{ "/assets/js/applause-button/dist/applause-button.js" | relative_url }}"></script>
 
 {% assign author = site.authors | where:"identifier",page.author | first %}
 
 <div class="vertically-spaced post-background-image" style="background-image: url({{page.image | relative_url}});">
-    <div style="height: 150px;"></div>
+    <div style="height: 80px;"></div>
     <div class="muskify-gradient">
         <div class="row">
-            <div class="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3" style="text-align: right;">
+            <div class="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-4" style="text-align: right;">
             </div>
-            <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
-                <div style="padding-top: 80px; padding-left: 30px; padding-right: 30px;">
+            <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-4">
+                <div style="padding-top: 130px; padding-left: 30px; padding-right: 30px;">
                     <h3 class="verticalbar">{{ page.title | upcase}}</h3>
                     <p>
                         {{ page.excerpt }}
@@ -38,7 +38,7 @@ layout: default
                     </a>
                 </div>
             </div>
-            <div class="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3" style="text-align: center;">
+            <div class="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-4" style="text-align: center;">
             </div>
         </div>
     </div>
@@ -46,7 +46,7 @@ layout: default
 <br />
 <br />
 <div class="row">
-    <div class="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 text-sm-center text-md-center text-lg-right text-xl-right">
+    <div class="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-4 text-sm-center text-md-center text-lg-right text-xl-right">
         <div class="container" style="position: sticky; top: 30px;">
             <div class="row">
                 <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
@@ -56,7 +56,7 @@ layout: default
                     {% endfor %}
                 </div>
                 <div class="col-4 col-sm-4 col-md-12 col-lg-12 col-xl-12">
-                    <br/>
+                    <br />
                     <div>
                         <applause-button style="width: 58px; height: 58px; float: right; vertical-align: middle;"
                             multiclap="true" class="clapped clap" />
@@ -86,10 +86,12 @@ layout: default
             <br />
         </div>
     </div>
-    <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 post-images"
+    <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 post-images"
         style="padding-left: 30px; padding-right: 30px;">
-        {{ content }}
-        <hr/>
+        <div class="post">
+            {{ content }}
+        </div>
+        <hr />
         <p style="font-weight: bold; padding: 30px;">O que você achou deste conteúdo? Deixe um comentário aqui embaixo,
             vou adorar saber sua opinião!</p>
         <div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-width="100%"></div>
@@ -100,7 +102,7 @@ layout: default
         {% include posts.html posts=posts %}
         {% endif %}
     </div>
-    <div class="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3" style="padding: 30px; text-align: left;">
+    <div class="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-4" style="padding: 30px; text-align: left;">
         <div style="position: sticky;top: 30px;">
             {% assign posts = site.posts | where_exp:"post","post.url != page.url" %}
             {% if posts.size > 0 %}
