@@ -16,3 +16,4 @@ layout: author
 published: false
 
 ---
+Apaixonado em escrever! Sempre buscarei um ponto de reflexão, um pensamento sobre as dificuldades da vida de um estudante. Não sou um profissional no assunto, mas tenho muitas histórias na minha trajetória, que, apesar de não estar nem perto de terminar, queria compartilhar com quem precisa, acreditando que cada pessoa pode fazer diferença no mundo e levar um pouco de esperança para alguém. Ainda não sei o que quero para o futuro, mas estou sempre disposto a bater um bom papo com você aqui no presente!
