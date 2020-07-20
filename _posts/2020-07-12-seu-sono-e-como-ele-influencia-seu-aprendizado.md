@@ -7,7 +7,7 @@ excerpt: 'Você considera seu sono um período importante do seu dia? Nesse text
 author: keziah
 image: "/assets/uploads/annie-spratt-bxt-twsf-ko-unsplash.jpg"
 readingtime: 6
-date: 2020-07-12T03:00:00.000+00:00
+date: 2020-07-14 03:00:00 +0000
 categories:
 - Produtividade
 - Qualidade de vida
