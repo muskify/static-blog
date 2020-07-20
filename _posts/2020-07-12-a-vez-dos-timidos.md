@@ -7,7 +7,7 @@ excerpt: A dose de coragem deve ser alta, mas a recompensa de ser livre em si me
 author: juliocesar
 image: "/assets/uploads/timidovez.jpg"
 readingtime: 5
-date: 2020-07-12T03:01:00.000+00:00
+date: 2020-07-19 03:01:00 +0000
 categories:
 - Autoconhecimento
 
