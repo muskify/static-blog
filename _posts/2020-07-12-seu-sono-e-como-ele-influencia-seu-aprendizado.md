@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Seu sono e como ele influencia seu aprendizado
-excerpt: 'Você precisa se conhecer: saber qual é seu tempo ideal de sono, qual é seu
-  horário de maior produtividade e quais são suas obrigações, para que assim, consiga
-  organizá-las de maneira que seu dia seja eficiente e produtivo, sem te sobrecarregar
-  e levar, depois de um período, à exaustão.'
+excerpt: 'Você considera seu sono um período importante do seu dia? Nesse texto eu
+  te mostro como ele pode influenciar em seu aprendizado e produtividade, além de
+  seus grandes benefícios! '
 author: keziah
 image: "/assets/uploads/annie-spratt-bxt-twsf-ko-unsplash.jpg"
 readingtime: 6
