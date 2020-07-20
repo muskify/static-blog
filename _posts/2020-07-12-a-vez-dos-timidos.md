@@ -5,7 +5,7 @@ excerpt: A dose de coragem deve ser alta, mas a recompensa de ser livre em si me
   e poder crescer dialogando e conhecendo novas pessoas podem abrir portas que você
   jamais imaginou!
 author: juliocesar
-image: "/assets/uploads/carrousel6.jpeg"
+image: "/assets/uploads/timidovez.jpg"
 readingtime: 5
 date: 2020-07-12T03:01:00.000+00:00
 categories:
