@@ -5,7 +5,7 @@ excerpt: Bem vindo ao blog muskify
 author: marina
 image: "/assets/uploads/estampa1.jpeg"
 readingtime: 6
-date: 2020-07-11T16:00:00.000+00:00
+date: 2001-02-01 02:00:00 +0000
 categories:
 - Editorial
 
