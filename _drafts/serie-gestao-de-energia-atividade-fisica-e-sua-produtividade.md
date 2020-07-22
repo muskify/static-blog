@@ -13,7 +13,7 @@ categories:
 
 ---
 Olá pessoal!  
- Hoje temos o terceiro e último texto de nossa série “Gestão de energia”. Se você não viu o [primeiro](https://blog.muskify.app/seu-sono-e-como-ele-influencia-seu-aprendizado "Sono") nem o segundo, corre lá e leia! Vamos entender nesta leitura como a atividade física faz diferença em nossa saúde e produtividade! 
+Hoje temos o terceiro e último texto de nossa série “Gestão de energia”. Se você não viu o [primeiro](https://blog.muskify.app/seu-sono-e-como-ele-influencia-seu-aprendizado "Sono") nem o segundo, corre lá e leia! Vamos entender nesta leitura como a atividade física faz diferença em nossa saúde e produtividade!
 
 Depois de lê-lo não esqueça de ficar ligado nos outros textos que virão e de deixar um comentário nos dizendo o que achou! Boa leitura! : )
 
@@ -38,22 +38,14 @@ Mas sempre lembrando que é necessário o auxílio de um especialista, como um m
 Segundo pesquisas, a atividade física é um excelente remédio! Ela promove mudanças em nosso físico e em nosso comportamento, tais como:
 
 * **Fortalecimento de todos os sistemas de nosso corpo**
-
-
 * **Aumento da imunidade**: nosso sistema imunológico é nosso melhor amigo no combate às doenças, infecções e por aí vai. Quanto mais saudável ele estiver, melhor será para você. Foi comprovado ([https://www.scielo.br/pdf/rbme/v18n3/15.pdf](https://www.scielo.br/pdf/rbme/v18n3/15.pdf "https://www.scielo.br/pdf/rbme/v18n3/15.pdf")) que exercícios de intensidade moderada auxiliam na produção de neutrófilos, linfócitos, entre outros, que fazem parte de nosso sistema imune – dê uma olhada no gráfico abaixo que mostra justamente isso que eu acabei de dizer: ter uma rotina moderada e regular de exercícios faz com que seu sistema imunológico se fortaleça e você fica menos susceptível a doenças.
 
-![](file:///C:/Users/kezia/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg =310x202)
+![](/assets/uploads/foto.jpg)
 
 * **Aumento da disposição e redução do cansaço ao longo do dia**: ao longo de uma atividade física, o hormônio endorfina é liberado, o que nos dá essa sensação de bem-estar e nos ajuda em nossa disposição. Se juntarmos ainda o sono e a alimentação, o sucesso é certo!
-
-
 * **Melhora do condicionamento**: definição muscular e saúde mental. Os resultados mostram pessoas mais produtivas, mais animadas para fazer suas obrigações diárias. O que ocorre, basicamente, é que se aumenta o fluxo sanguíneo cerebral e, por conseguinte, o aumento de nutrientes e da atividade dos neurotransmissores. Além disso, promove plasticidade sináptica, que é o fortalecimento de suas conexões neurais, super importante para seu aprendizado e para sua memória!
-
-
 * **Prevenção de doenças**: aliada ao primeiro tópico – aumento da imunidade. Células imunológicas são encontradas em maiores quantidades no organismo e com isso, você ficará menos doente. Tipo, sabe aquela gripe que a maioria dos seus amigos pega ao longo do ano? Pois é, você estará blindado dela!  
-   Além disso, uma das doenças que mais ocorre é a Osteoporose; estudos mostram a relação entre a falta da atividade física, falta de vitamina D e má alimentação desde a infância com o aparecimento da doença (Gallager, 2015).
-
-
+  Além disso, uma das doenças que mais ocorre é a Osteoporose; estudos mostram a relação entre a falta da atividade física, falta de vitamina D e má alimentação desde a infância com o aparecimento da doença (Gallager, 2015).
 * **Melhora o humor**: com a prática de exercícios físicos, há a liberação de alguns hormônios, como a dopamina e a serotonina. Elas são responsáveis, respectivamente, pela sensação de prazer e felicidade. Além disso, elas estão associadas ao combate da ansiedade e depressão, que infelizmente, acomete muitas pessoas ao nosso redor.
 
 Aprendemos, então, o quanto as atividades físicas mudam nossa saúde e nos ajudam a evitar muitas situações desagradáveis!
@@ -84,11 +76,7 @@ Sinto que todas essas atividades me ajudaram muito em meu condicionamento, mas p
 
 * Exercícios aeróbicos: corridas, danças (zumba, por exemplo), andar de bicicleta, polichinelos, escalada, burpees, são bons exemplos.
 * Artes marciais: judô, kick-boxing, jiu-jitsu, capoeira, karatê, kung-fu, entre outras.
-
-
 * Hidroginástica, natação
-
-
 * Musculação: claro, sempre com o auxílio e orientação de um profissional. Ver vídeos no YouTube ou ver dicas de famosos são muito perigosas se não tiver alguém que possa verificar se você está fazendo corretamente. Fazer exercícios errados pode levar a lesões irreversíveis, por isso, tomem cuidado!
 
 Bom, esse foi nosso último texto da série! Espero que vocês tenham gostado e colocado em prática as dicas abordadas, lembrando sempre que elas não são universais e pode ser que outros métodos tenham funcionado melhor com você! Deixa nos comentários para mim? Vou amar ler o que vocês fazem!
