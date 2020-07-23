@@ -19,14 +19,14 @@ Sem o medo, assumiríamos riscos impensados e potencialmente perigosos, como col
 
 Existe um pequeno grupo de pessoas no mundo que sofre de uma doença chamada Urbach-Wiethe. Segundo o site TuaSaúde, a ausência do medo é o principal sintoma dela:
 
-**“Não ter medo de nada é o principal sintoma de uma doença rara chamada de doença de Urbach-Wiethe. Os indivíduos portadores desta doença estranhamente não sentem medo de nada, pois a parte do seu cérebro que comanda a sensação de medo e perigo encontra-se ‘desligada’.”**
+> **“Não ter medo de nada é o principal sintoma de uma doença rara chamada de doença de Urbach-Wiethe. Os indivíduos portadores desta doença estranhamente não sentem medo de nada, pois a parte do seu cérebro que comanda a sensação de medo e perigo encontra-se ‘desligada’.”**
 
 Esse outro extremo, onde não há a sensação de medo, por sua vez, é bastante prejudicial, pois o medo está diretamente ligado ao instinto de sobrevivência. Percebe, então, como o medo não é seu inimigo?
 
 Assim, de maneira irônica, devemos ficar felizes por possuirmos a capacidade de sentir medo. Mas agora que você sabe da importância do medo, já que é algo inclusive muito natural e benéfico, pode estar pensando, então, em qual é o desafio que nos impede de correr atrás do que queremos e porque ir atrás dos nossos objetivos pode parecer tão amedrontador.
 
 O problema aparece quando o medo se torna empecilho para que você tenha coragem de arriscar, de correr atrás de um objetivo.  
- A verdade é que muitas vezes deixamos de perseguir objetivos que desejamos por medo. Esses medos podem ser os mais variados possíveis: medo de falar em público, medo do que vão falar sobre o que você está almejando, medo de sair da nossa zona de conforto, medo de dar tudo errado!
+A verdade é que muitas vezes deixamos de perseguir objetivos que desejamos por medo. Esses medos podem ser os mais variados possíveis: medo de falar em público, medo do que vão falar sobre o que você está almejando, medo de sair da nossa zona de conforto, medo de dar tudo errado!
 
 E quanto mais desafiadora a meta, maior o medo de dar um passinho em direção a ela e mobilizar esse esforço.
 
@@ -42,7 +42,7 @@ Mas, já que você compreendeu que é normal sentir medo e também é possível 
 
 Tim Ferriss, em suas TED Talks **“Esmague o medo e aprenda o que quiser”** (“Smash fear, learn anything”) e **“Por que você deve definir seus medos ao invés de suas metas”** (Why you should define your fears instead of your goals”), discute que, na verdade, muitas vezes temos medos de cenários aumentados. Isso significa que as possibilidades de algo que desejamos dar errado existem, mas pensamos que a proporção desse “errado” é absurdamente maior do que a realidade:
 
-**_“Nós sofremos mais frequentemente na imaginação do que na realidade.” (Sêneca)_**
+> **_“Nós sofremos mais frequentemente na imaginação do que na realidade.” (Sêneca)_**
 
 (Sêneca foi um dos mais célebres advogados, escritores e intelectuais do Império Romano)
 
@@ -68,3 +68,15 @@ Podem ser aprovados no vestibular que você deseja, podem ser profissionais que 
 Você também pode conseguir. Não tenha medo.
 
 Abraços, até a próxima!
+
+Referências bibliográficas:
+
+[https://ionline.sapo.pt/artigo/268305/doenca-sabia-que-e-possivel-nao-sentir-medo-?seccao=Mundo](https://ionline.sapo.pt/artigo/268305/doenca-sabia-que-e-possivel-nao-sentir-medo-?seccao=Mundo "https://ionline.sapo.pt/artigo/268305/doenca-sabia-que-e-possivel-nao-sentir-medo-?seccao=Mundo")
+
+[https://www.vittude.com/blog/medo-como-superar/](https://www.vittude.com/blog/medo-como-superar/ "https://www.vittude.com/blog/medo-como-superar/")
+
+[https://www.tuasaude.com/doenca-de-urbach-wiethe/](https://www.tuasaude.com/doenca-de-urbach-wiethe/ "https://www.tuasaude.com/doenca-de-urbach-wiethe/")
+
+[https://www.ted.com/talks/tim_ferriss_why_you_should_define_your_fears_instead_of_your_goals](https://www.ted.com/talks/tim_ferriss_why_you_should_define_your_fears_instead_of_your_goals "https://www.ted.com/talks/tim_ferriss_why_you_should_define_your_fears_instead_of_your_goals")
+
+[https://www.ted.com/talks/tim_ferriss_smash_fear_learn_anything?language=pt-br](https://www.ted.com/talks/tim_ferriss_smash_fear_learn_anything?language=pt-br "https://www.ted.com/talks/tim_ferriss_smash_fear_learn_anything?language=pt-br")
