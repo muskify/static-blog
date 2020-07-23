@@ -4,7 +4,7 @@ title: 'Série Metas: Suas metas estão trabalhando a seu favor? 3 dicas prátic
 excerpt: Determinar suas metas de forma esperta pode ser o que falta para alcançar
   o objetivo que você tanto deseja
 author: marina
-image: "/assets/uploads/isaac-smith-8xlmu62ii8i-unsplash.jpg"
+image: "/assets/uploads/isaac-smith-8xlmu62ii8i-unsplash-1.jpg"
 readingtime: 8
 date: 2020-07-23 21:00:00 +0000
 categories:
