@@ -1,13 +1,16 @@
 ---
 layout: post
-title: Suas metas estão trabalhando a seu favor? 3 dicas práticas
+title: 'Série metas: Suas metas estão trabalhando a seu favor? 3 dicas práticas'
 excerpt: Determinar suas metas de forma esperta pode ser o que falta para alcançar
   o objetivo que você tanto deseja
 author: marina
-image: ''
+image: "/assets/uploads/isaac-smith-8xlmu62ii8i-unsplash.jpg"
 readingtime: 8
 date: 2020-07-23 21:00:00 +0000
-categories: []
+categories:
+- perfeccionismo
+- organização
+- metas
 
 ---
 Você tem um objetivo que deseja atingir?
@@ -74,7 +77,7 @@ Todo mundo começa de algum lugar e ninguém estará pronto até que tenha exper
 
 Sendo assim, a verdade é que nunca estaremos completamente prontos e preparados. Sempre irá existir espaço para aprender mais e crescer. Contudo, também sempre existirá espaço para a tentativa. Se tiver coragem.
 
-Assim, não espere até que você esteja “perfeito”. Na verdade, o perfeccionismo não é algo tão positivo assim, sabia? O termo perfeccionismo na verdade pode ser considerado uma síndrome e pode trazer diversos obstáculos à vida dos perfeccionistas! Confira o texto sobre perfeccionismo aqui em nosso blog para saber melhor! (inserir link)
+Assim, não espere até que você esteja “perfeito”. Na verdade, o perfeccionismo não é algo tão positivo assim, sabia? O termo perfeccionismo na verdade pode ser considerado uma síndrome e pode trazer diversos obstáculos à vida dos perfeccionistas! 
 
 Aproveito para me despedir com um frase clichê, porém marcante: “feito é melhor do que perfeito.”
 
