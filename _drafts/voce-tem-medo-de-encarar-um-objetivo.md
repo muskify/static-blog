@@ -69,17 +69,17 @@ Você também pode conseguir. Não tenha medo.
 
 Abraços, até a próxima!
 
-Referências bibliográficas:
+###### Referências bibliográficas:
 
-[https://ionline.sapo.pt/artigo/268305/doenca-sabia-que-e-possivel-nao-sentir-medo-?seccao=Mundo](https://ionline.sapo.pt/artigo/268305/doenca-sabia-que-e-possivel-nao-sentir-medo-?seccao=Mundo "https://ionline.sapo.pt/artigo/268305/doenca-sabia-que-e-possivel-nao-sentir-medo-?seccao=Mundo")
+###### [https://ionline.sapo.pt/artigo/268305/doenca-sabia-que-e-possivel-nao-sentir-medo-?seccao=Mundo](https://ionline.sapo.pt/artigo/268305/doenca-sabia-que-e-possivel-nao-sentir-medo-?seccao=Mundo "https://ionline.sapo.pt/artigo/268305/doenca-sabia-que-e-possivel-nao-sentir-medo-?seccao=Mundo")
 
-[https://www.vittude.com/blog/medo-como-superar/](https://www.vittude.com/blog/medo-como-superar/ "https://www.vittude.com/blog/medo-como-superar/")
+###### [https://www.vittude.com/blog/medo-como-superar/](https://www.vittude.com/blog/medo-como-superar/ "https://www.vittude.com/blog/medo-como-superar/")
 
-[https://www.tuasaude.com/doenca-de-urbach-wiethe/](https://www.tuasaude.com/doenca-de-urbach-wiethe/ "https://www.tuasaude.com/doenca-de-urbach-wiethe/")
+###### [https://www.tuasaude.com/doenca-de-urbach-wiethe/](https://www.tuasaude.com/doenca-de-urbach-wiethe/ "https://www.tuasaude.com/doenca-de-urbach-wiethe/")
 
-[https://www.ted.com/talks/tim_ferriss_why_you_should_define_your_fears_instead_of_your_goals](https://www.ted.com/talks/tim_ferriss_why_you_should_define_your_fears_instead_of_your_goals "https://www.ted.com/talks/tim_ferriss_why_you_should_define_your_fears_instead_of_your_goals")
+###### [https://www.ted.com/talks/tim_ferriss_why_you_should_define_your_fears_instead_of_your_goals](https://www.ted.com/talks/tim_ferriss_why_you_should_define_your_fears_instead_of_your_goals "https://www.ted.com/talks/tim_ferriss_why_you_should_define_your_fears_instead_of_your_goals")
 
-[https://www.ted.com/talks/tim_ferriss_smash_fear_learn_anything?language=pt-br](https://www.ted.com/talks/tim_ferriss_smash_fear_learn_anything?language=pt-br "https://www.ted.com/talks/tim_ferriss_smash_fear_learn_anything?language=pt-br")
+###### [https://www.ted.com/talks/tim_ferriss_smash_fear_learn_anything?language=pt-br](https://www.ted.com/talks/tim_ferriss_smash_fear_learn_anything?language=pt-br "https://www.ted.com/talks/tim_ferriss_smash_fear_learn_anything?language=pt-br")
 
-  
+######   
 Cover photo by [Danielle MacInnes](https://unsplash.com/@dsmacinnes?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/about?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
