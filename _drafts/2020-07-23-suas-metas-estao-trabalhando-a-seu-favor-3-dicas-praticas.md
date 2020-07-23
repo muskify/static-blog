@@ -6,7 +6,7 @@ excerpt: Determinar suas metas de forma esperta pode ser o que falta para alcan�
 author: marina
 image: "/assets/uploads/markus-winkler-lnzuok1gxru-unsplash.jpg"
 readingtime: 8
-date: 2020-07-23 21:00:00 +0000
+date: 2020-07-23 12:59:00 +0000
 categories:
 - perfeccionismo
 - organização
