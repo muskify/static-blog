@@ -77,10 +77,10 @@ Todo mundo começa de algum lugar e ninguém estará pronto até que tenha exper
 
 Sendo assim, a verdade é que nunca estaremos completamente prontos e preparados. Sempre irá existir espaço para aprender mais e crescer. Contudo, também sempre existirá espaço para a tentativa. Se tiver coragem.
 
-Assim, não espere até que você esteja “perfeito”. Na verdade, o perfeccionismo não é algo tão positivo assim, sabia? O termo perfeccionismo na verdade pode ser considerado uma síndrome e pode trazer diversos obstáculos à vida dos perfeccionistas! 
+Assim, não espere até que você esteja “perfeito”. Na verdade, o perfeccionismo não é algo tão positivo assim, sabia? O termo perfeccionismo na verdade pode ser considerado uma síndrome e pode trazer diversos obstáculos à vida dos perfeccionistas!
 
 Aproveito para me despedir com um frase clichê, porém marcante: “feito é melhor do que perfeito.”
 
-E aí? Vai enfrentar seus medos e investir em seus projetos?
+**E aí? Vai enfrentar seus medos e investir em seus projetos?**
 
-Abraços! Até a próxima!
+**Abraços! Até a próxima!**
