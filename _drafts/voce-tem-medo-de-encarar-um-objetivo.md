@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Você tem medo de encarar um objetivo?
+title: 'Série Metas: Você tem medo de encarar um objetivo?'
 excerpt: Às vezes, o que falta para que você conquiste o que quer é apenas a coragem
   de arriscar.
 author: marina
-image: ''
+image: "/assets/uploads/danielle-macinnes-iulgi9pwetu-unsplash.jpg"
 readingtime: 6
 date: 2020-08-02 21:00:00 +0000
 categories:
