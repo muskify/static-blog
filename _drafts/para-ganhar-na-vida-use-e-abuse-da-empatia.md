@@ -7,7 +7,7 @@ excerpt: A empatia é uma ferramenta, ás vezes, subestimada, mas, sem dúvidas 
   Como? Descubra aqui!
 author: juliocesar
 image: "/assets/uploads/empatia-imagem.jpg"
-readingtime: 5
+readingtime: 6
 date: 2020-07-30 03:00:00 +0000
 categories: []
 
