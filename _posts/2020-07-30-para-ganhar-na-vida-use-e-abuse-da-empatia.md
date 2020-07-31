@@ -16,10 +16,8 @@ categories:
 ---
 #### **Para ganhar na vida, use e abuse da empatia!**
 
-  
-    Certamente, uma das palavras mais importantes da atualidade é “empatia”. Para quem ainda não conhece seu mais amplo significado, alude a estar no lugar do outro, entender as questões das outras pessoas como se você mesmo as vivenciasse. Esse sentimento é a força motriz para ações virtuosas, como as dos médicos que arriscam suas vidas para cuidar dos pacientes de covid-19 bem no centro da pandemia ou quem vira Papai Noel todo Natal e tira dinheiro do próprio bolso para distribuir brinquedos para as crianças mais carentes. Todavia, é uma virtude que cabe completamente na rotina, e nesse texto, pretendo mostrar como isso pode afetar positivamente sua vida nos termos técnicos e pessoais.
+Certamente, uma das palavras mais importantes da atualidade é “empatia”. Para quem ainda não conhece seu mais amplo significado, alude a estar no lugar do outro, entender as questões das outras pessoas como se você mesmo as vivenciasse. Esse sentimento é a força motriz para ações virtuosas, como as dos médicos que arriscam suas vidas para cuidar dos pacientes de covid-19 bem no centro da pandemia ou quem vira Papai Noel todo Natal e tira dinheiro do próprio bolso para distribuir brinquedos para as crianças mais carentes. Todavia, é uma virtude que cabe completamente na rotina, e nesse texto, pretendo mostrar como isso pode afetar positivamente sua vida nos termos técnicos e pessoais.
 
-  
 **Quem sou eu para falar de empatia?**
 
 O autor que escreve esse texto sempre teve dificuldades em exercer a empatia. Achava que era coisa para super heróis ou aquele pessoal filantropo “iluminado”, capazes de dar a vida pela causa sem pensar duas vezes, e que a realidade dos fatos mostrava uma sociedade fria, pronta para consumir seu fígado se você viver para os outros e não para si.
