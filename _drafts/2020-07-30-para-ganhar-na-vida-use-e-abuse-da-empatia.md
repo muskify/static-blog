@@ -9,7 +9,9 @@ author: juliocesar
 image: "/assets/uploads/empatia-imagem.jpg"
 readingtime: 6
 date: 2020-07-30 03:00:00 +0000
-categories: []
+categories:
+- Soft Skills
+- Empatia
 
 ---
 #### **Para ganhar na vida, use e abuse da empatia!**
