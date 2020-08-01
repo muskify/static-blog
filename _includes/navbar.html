@@ -15,17 +15,11 @@
             Sobre o aplicativo
           </a>
         </li>
-        {% for item in site.data.navigation %}
-        {% assign class = nil %}
-        {% if page.url == item.link %}
-        {% assign class = 'active' %}
-        {% endif %}
-        <li class="nav-item {{class}}">
-          <a class="nav-link" href="{{item.link | relative_url}}">
-            {{ item.name }}
+        <li class="nav-item">
+          <a class="nav-link active" href="/">
+            Blog
           </a>
         </li>
-        {% endfor %}
       </ul>
     </div>
   </div>
