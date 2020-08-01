@@ -10,11 +10,11 @@ layout: default
 <img src="{{page.image | relative_url}}"
     style="width: 100vw; height: auto; max-height: 100vh; overflow:hidden; object-fit: cover;" />
 <div class="row">
-    <div class="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-4" style="text-align: right;">
+    <div class="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3" style="text-align: right;">
     </div>
-    <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-4">
+    <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
         <div style="padding-top: 20px; padding-left: 30px; padding-right: 30px;">
-            <h3 class="verticalbar" style="font-weight: bold;">{{ page.title | upcase}}</h3>
+            <h3 class="verticalbar" style="font-weight: bold; padding: 10px;">{{ page.title | upcase}}</h3>
             <p>
                 {{ page.excerpt }}
             </p>
@@ -37,13 +37,13 @@ layout: default
             </a>
         </div>
     </div>
-    <div class="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-4" style="text-align: center;">
+    <div class="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3" style="text-align: center;">
     </div>
 </div>
 <br />
 <br />
 <div class="row">
-    <div class="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-4 text-sm-center text-md-center text-lg-right text-xl-right">
+    <div class="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 text-sm-center text-md-center text-lg-right text-xl-right">
         <div class="container">
             <div class="row">
                 <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12" style="font-weight: bold; opacity: 0.7;">
@@ -87,7 +87,7 @@ layout: default
             <br />
         </div>
     </div>
-    <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 post-images"
+    <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 post-images"
         style="padding-left: 30px; padding-right: 30px;">
         <div class="post">
             {{ content }}
@@ -97,7 +97,7 @@ layout: default
             vou adorar saber sua opinião!</p>
         <div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-width="100%"></div>
     </div>
-    <div class="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-4"
+    <div class="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3"
         style="padding-left: 30px; padding-right:30px; text-align: left;">
         <div style="position: sticky;top: 30px;">
             {% assign posts = site.posts | where_exp:"post","post.url != page.url" %}
@@ -117,13 +117,13 @@ layout: default
             {% endif %}
         </div>
     </div>
-    <div class="container">
-        {% if site.posts.size > 0 %}
-        <br />
-        <br />
-        <p style="font-weight: bold; opacity: 0.7;padding-left: 30px;">LEIA TAMBÉM</p>
-        {% assign posts = site.posts | sample: 3 %}
-        {% include posts.html posts=posts %}
-        {% endif %}
-    </div>
+</div>
+<div class="container">
+    {% if site.posts.size > 0 %}
+    <br />
+    <br />
+    <p style="font-weight: bold; opacity: 0.7;padding-left: 30px;">LEIA TAMBÉM</p>
+    {% assign posts = site.posts | sample: 3 %}
+    {% include posts.html posts=posts %}
+    {% endif %}
 </div>
