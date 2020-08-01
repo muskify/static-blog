@@ -10,6 +10,11 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <ul class="nav navbar-nav ml-auto">
+        <li class="nav-item">
+          <a class="nav-link" href="https://muskify.app/">
+            Sobre o aplicativo
+          </a>
+        </li>
         {% for item in site.data.navigation %}
         {% assign class = nil %}
         {% if page.url == item.link %}
