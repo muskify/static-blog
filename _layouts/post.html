@@ -7,7 +7,8 @@ layout: default
 
 {% assign author = site.authors | where:"identifier",page.author | first %}
 
-<img src="{{page.image | relative_url}}" style="width: 100vw; height: auto; max-height: 100vh; overflow:hidden; object-fit: cover;"/>
+<img src="{{page.image | relative_url}}"
+    style="width: 100vw; height: auto; max-height: 100vh; overflow:hidden; object-fit: cover;" />
 <div class="row">
     <div class="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-4" style="text-align: right;">
     </div>
@@ -43,16 +44,20 @@ layout: default
 <br />
 <div class="row">
     <div class="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-4 text-sm-center text-md-center text-lg-right text-xl-right">
-        <div class="container" style="position: sticky; top: 30px;">
+        <div class="container">
             <div class="row">
-                <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
-                    <p style="font-weight: bold; opacity: 0.7;">TEMAS</p>
+                <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12" style="font-weight: bold; opacity: 0.7;">
+                    <p>TEMAS</p>
                     {% for category in page.categories %}
                     <p class="muskify-tag">{{ category | upcase }}</p>
                     {% endfor %}
-                </div>
-                <div class="col-4 col-sm-4 col-md-12 col-lg-12 col-xl-12">
                     <br />
+                </div>
+            </div>
+        </div>
+        <div class="container" style="position: sticky; top: 30px;">
+            <div class="row">
+                <div class="col-4 col-sm-4 col-md-12 col-lg-12 col-xl-12">
                     <div>
                         <applause-button style="width: 58px; height: 58px; float: right; vertical-align: middle;"
                             multiclap="true" class="clapped clap" />
@@ -91,18 +96,13 @@ layout: default
         <p style="font-weight: bold; padding: 30px;">O que você achou deste conteúdo? Deixe um comentário aqui embaixo,
             vou adorar saber sua opinião!</p>
         <div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-width="100%"></div>
-        <br />
-        {% if posts.size > 0 %}
-        <p style="font-weight: bold; opacity: 0.7;padding-left: 30px;">LEIA TAMBÉM</p>
-        {% assign posts = posts | sample: 3 %}
-        {% include posts.html posts=posts %}
-        {% endif %}
     </div>
-    <div class="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-4" style="padding: 30px; text-align: left;">
+    <div class="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-4"
+        style="padding-left: 30px; padding-right:30px; text-align: left;">
         <div style="position: sticky;top: 30px;">
             {% assign posts = site.posts | where_exp:"post","post.url != page.url" %}
             {% if posts.size > 0 %}
-            <h6 style="left: -15px; color: lightblue;">MAIS RECENTES</h6>
+            <h6 style="left: -15px; font-weight: bold; opacity: 0.7;">MAIS RECENTES</h6>
             <div class="thin-verticalbar">
                 {% for post in posts limit: 3 | sort: "last" %}
                 {% assign otherauthor = site.authors | where:"identifier",post.author | first %}
@@ -116,5 +116,13 @@ layout: default
             </div>
             {% endif %}
         </div>
+    </div>
+    <br />
+    <div class="container">
+        {% if site.posts.size > 0 %}
+        <p style="font-weight: bold; opacity: 0.7;padding-left: 30px;">LEIA TAMBÉM</p>
+        {% assign posts = site.posts | sample: 3 %}
+        {% include posts.html posts=posts %}
+        {% endif %}
     </div>
 </div>
