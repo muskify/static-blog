@@ -92,6 +92,7 @@ a.custom-card:hover {
 .post {
     :not(h1):not(h2):not(h3):not(h4):not(h5):not(h6):not(strong) {
         font-family: 'sans-serif' !important;
+        font-size: 18px;
     }
     h1, h2, h3, h4, h5, h6 {
         margin: 30px 0 15px;
