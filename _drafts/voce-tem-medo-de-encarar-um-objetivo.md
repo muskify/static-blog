@@ -13,11 +13,11 @@ categories:
 - metas
 
 ---
-Primeiramente, vamos deixar uma coisa clara: é super natural sentir medo. O medo é uma resposta biológica involuntária que tem a finalidade de nos proteger e de nos fazer pensar melhor em nossas ações antes de agir, pois elas possuem consequências.
+Primeiramente, vamos deixar uma coisa clara: é super natural sentir medo. O [medo](https://www.vittude.com/blog/medo-como-superar/ "Medo") é uma resposta biológica involuntária que tem a finalidade de nos proteger e de nos fazer pensar melhor em nossas ações antes de agir, pois elas possuem consequências.
 
 Sem o medo, assumiríamos riscos impensados e potencialmente perigosos, como colocar a mão sobre a chama acesa do fogão para ver o que acontece ou pular de grandes alturas.
 
-Existe um pequeno grupo de pessoas no mundo que sofre de uma doença chamada Urbach-Wiethe. Segundo o site TuaSaúde, a ausência do medo é o principal sintoma dela:
+Existe um pequeno grupo de pessoas no mundo que sofre de uma doença chamada Urbach-Wiethe. Segundo o site [TuaSaúde](https://www.tuasaude.com/doenca-de-urbach-wiethe/ "Tua Saúde"), a ausência do medo é o principal sintoma dela:
 
 > **“Não ter medo de nada é o principal sintoma de uma doença rara chamada de** [**doença de Urbach-Wiethe**](https://ionline.sapo.pt/artigo/268305/doenca-sabia-que-e-possivel-nao-sentir-medo-?seccao=Mundo "Urbach-Wiethe")**. Os indivíduos portadores desta doença estranhamente não sentem medo de nada, pois a parte do seu cérebro que comanda a sensação de medo e perigo encontra-se ‘desligada’.”**
 
@@ -40,7 +40,7 @@ A verdade é que, caso não exista nenhum impedimento realmente sério e prejudi
 
 Mas, já que você compreendeu que é normal sentir medo e também é possível enfrentar esse sentimento, como fazer isso?
 
-Tim Ferriss, em suas TED Talks **“Esmague o medo e aprenda o que quiser”** (“Smash fear, learn anything”) e **“Por que você deve definir seus medos ao invés de suas metas”** (Why you should define your fears instead of your goals”), discute que, na verdade, muitas vezes temos medos de cenários aumentados. Isso significa que as possibilidades de algo que desejamos dar errado existem, mas pensamos que a proporção desse “errado” é absurdamente maior do que a realidade:
+Tim Ferriss, em suas TED Talks [**“Esmague o medo e aprenda o que quiser”**](https://www.ted.com/talks/tim_ferriss_smash_fear_learn_anything?language=pt-br "TED 1") (“Smash fear, learn anything”) e [**“Por que você deve definir seus medos ao invés de suas metas”**](https://www.ted.com/talks/tim_ferriss_why_you_should_define_your_fears_instead_of_your_goals "TED2") (Why you should define your fears instead of your goals”), discute que, na verdade, muitas vezes temos medos de cenários aumentados. Isso significa que as possibilidades de algo que desejamos dar errado existem, mas pensamos que a proporção desse “errado” é absurdamente maior do que a realidade:
 
 > **_“Nós sofremos mais frequentemente na imaginação do que na realidade.” (Sêneca)_**
 
@@ -68,19 +68,5 @@ Podem ser aprovados no vestibular que você deseja, podem ser profissionais que 
 Você também pode conseguir. Não tenha medo.
 
 Abraços, até a próxima!
-
-###### Referências bibliográficas:
-
-###### [https://ionline.sapo.pt/artigo/268305/doenca-sabia-que-e-possivel-nao-sentir-medo-?seccao=Mundo](https://ionline.sapo.pt/artigo/268305/doenca-sabia-que-e-possivel-nao-sentir-medo-?seccao=Mundo "https://ionline.sapo.pt/artigo/268305/doenca-sabia-que-e-possivel-nao-sentir-medo-?seccao=Mundo")
-
-###### [https://www.vittude.com/blog/medo-como-superar/](https://www.vittude.com/blog/medo-como-superar/ "https://www.vittude.com/blog/medo-como-superar/")
-
-###### [https://www.tuasaude.com/doenca-de-urbach-wiethe/](https://www.tuasaude.com/doenca-de-urbach-wiethe/ "https://www.tuasaude.com/doenca-de-urbach-wiethe/")
-
-###### [https://www.ted.com/talks/tim_ferriss_why_you_should_define_your_fears_instead_of_your_goals](https://www.ted.com/talks/tim_ferriss_why_you_should_define_your_fears_instead_of_your_goals "https://www.ted.com/talks/tim_ferriss_why_you_should_define_your_fears_instead_of_your_goals")
-
-###### [https://www.ted.com/talks/tim_ferriss_smash_fear_learn_anything?language=pt-br](https://www.ted.com/talks/tim_ferriss_smash_fear_learn_anything?language=pt-br "https://www.ted.com/talks/tim_ferriss_smash_fear_learn_anything?language=pt-br")
-
-###### 
 
 Cover photo by [Danielle MacInnes](https://unsplash.com/@dsmacinnes?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/about?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
