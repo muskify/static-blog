@@ -6,7 +6,7 @@ excerpt: Às vezes, o que falta para que você conquiste o que quer é apenas a 
 author: marina
 image: "/assets/uploads/danielle-macinnes-iulgi9pwetu-unsplash.jpg"
 readingtime: 6
-date: 2020-08-02 21:00:00 +0000
+date: 2020-08-02T21:00:00.000+00:00
 categories:
 - perfeccionismo
 - medo
@@ -19,7 +19,7 @@ Sem o medo, assumiríamos riscos impensados e potencialmente perigosos, como col
 
 Existe um pequeno grupo de pessoas no mundo que sofre de uma doença chamada Urbach-Wiethe. Segundo o site TuaSaúde, a ausência do medo é o principal sintoma dela:
 
-> **“Não ter medo de nada é o principal sintoma de uma doença rara chamada de doença de Urbach-Wiethe. Os indivíduos portadores desta doença estranhamente não sentem medo de nada, pois a parte do seu cérebro que comanda a sensação de medo e perigo encontra-se ‘desligada’.”**
+> **“Não ter medo de nada é o principal sintoma de uma doença rara chamada de doença de Urbach-Wiethe. Os indivíduos portadores desta doença estranhamente não sentem medo de nada, pois a parte do seu cérebro que comanda a sensação de medo e perigo encontra-se ‘desligada’.**[**”**](https://ionline.sapo.pt/artigo/268305/doenca-sabia-que-e-possivel-nao-sentir-medo-?seccao=Mundo "1")
 
 Esse outro extremo, onde não há a sensação de medo, por sua vez, é bastante prejudicial, pois o medo está diretamente ligado ao instinto de sobrevivência. Percebe, então, como o medo não é seu inimigo?
 
