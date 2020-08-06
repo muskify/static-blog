@@ -6,7 +6,7 @@ excerpt: 'Você tem uma rotina de exercícios físicos? Não?! Vou te mostrar co
 author: keziah
 image: "/assets/uploads/anupam-mahapatra-vz0rbclzg_w-unsplash.jpg"
 readingtime: 5
-date: 2020-08-06 21:00:00 +0000
+date: 2020-08-06T21:00:00.000+00:00
 categories:
 - Saúde
 - Produtividade
