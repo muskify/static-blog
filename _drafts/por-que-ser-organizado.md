@@ -38,7 +38,7 @@ Consigo ouvir você pensando que não tem tempo para uma leitura dessas. Aí que
 
 Portanto, um primeiro passo antes de realizar tarefas é guardar tudo que não seja necessário naquele momento, de forma organizada. Isso vai ajudar a organizar sua mente!
 
-2. **Ser organizado aumenta sua produtividade e te ajuda a gerir melhor seu tempo**
+1. **Ser organizado aumenta sua produtividade e te ajuda a gerir melhor seu tempo**
 
 Quando você mantém uma lista organizada das tarefas que precisa cumprir, consegue tomar algumas decisões estratégicas de forma a otimizar seu tempo:
 
@@ -56,7 +56,7 @@ Perceba que a organização deixa sua percepção de tempo mais apurada e, porta
 
 Agora o ponto principal:
 
-3. **Ser organizado diminui seu cansaço, o que faz com que sobre mais energia para realizar os projetos que você deseja!**
+1. **Ser organizado diminui seu cansaço, o que faz com que sobre mais energia para realizar os projetos que você deseja!**
 
 Várias vezes você quis começar um novo projeto e nunca conseguiu porque ficava muito cansado de sua rotina diária e dizia: “não tenho tempo”?
 
@@ -75,3 +75,5 @@ Não se esqueça de ir conferir nossas redes sociais: @ estudita_del e @ muskify
 Me despeço com uma mensagem: “feito é melhor que perfeito.”
 
 Grande abraço! Até o próximo texto!
+
+Cover photo by [STIL](https://unsplash.com/@stilclassics?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/organization?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
