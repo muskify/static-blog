@@ -46,7 +46,7 @@ Além da questão da idade, é preciso saber diferenciar bem “desempenho” e 
 
 **“Os homens perdem a saúde para juntar dinheiro, depois perdem o dinheiro para recuperar a saúde. E por pensarem ansiosamente no futuro esquecem do presente de forma que acabam por não viver nem no presente nem no futuro. E vivem como se nunca fossem morrer... e morrem como se nunca tivessem vivido.”**
 
-Portanto, se você não priorizar seu objetivo e começar a traçar metas para atingi-lo (você pode conferir nosso outro texto sobre isso), seu objetivo não vai chegar mesmo...
+Portanto, se você não priorizar seu objetivo e começar a traçar metas para atingi-lo [(você pode conferir nosso outro texto sobre isso)](https://blog.muskify.app/suas-metas-estao-trabalhando-a-seu-favor-3-dicas-praticas), seu objetivo não vai chegar mesmo...
 
 Porém, estar fazendo muita coisa é sinônimo de sucesso? Tudo que você está fazendo tem a ver com o seu objetivo?
 
