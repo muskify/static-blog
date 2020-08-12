@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Por que ser organizado?
+title: 'Série cursinho: Por que ser organizado?'
 excerpt: 3 razões práticas sobre como ser organizado pode ser a chave para otimizar
   seu tempo
 author: marina
