@@ -4,7 +4,7 @@ title: Por que ser organizado?
 excerpt: 3 razões práticas sobre como ser organizado pode ser a chave para otimizar
   seu tempo
 author: marina
-image: ''
+image: "/assets/uploads/stil-837jygbcjo-unsplash.jpg"
 readingtime: 6
 date: 2020-09-03 21:00:00 +0000
 categories:
