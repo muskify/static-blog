@@ -4,7 +4,7 @@ title: Muito velho para isso?
 excerpt: Existe uma idade limite para se reinventar, correr atrás de seu sonho e traçar
   metas em prol de algo completamente novo?
 author: marina
-image: ''
+image: "/assets/uploads/s-o-c-i-a-l-c-u-t-6iyb1bwwbv0-unsplash.jpg"
 readingtime: 6
 date: 2020-08-13 21:00:00 +0000
 categories:
@@ -54,7 +54,7 @@ Talvez não.
 
 Assim sendo, você está consumindo seu tempo com muitas coisas que na verdade não estão agregando para o seu objetivo. Dessa forma, realmente não haverá tempo para investir nele, percebe?
 
-Albert-László Barabási - físico conhecido por seu trabalho na área de teoria das redes - discute exatamente a questão da idade e como ela pode estar ou não relacionada ao sucesso em sua TED Talk “[A real relação entre sua idade e sua chance de sucesso”](). Ele discute esse “mito” das grandes conquistas sempre correndo contra o relógio e também fala sobre as muitas vantagens de se perseguir um objetivo com uma idade mais madura e maior experiência. Segundo a palestra, startups criadas por jovens vão à falência mais frequentemente do que empresas iniciadas depois do 50 anos.
+Albert-László Barabási - físico conhecido por seu trabalho na área de teoria das redes - discute exatamente a questão da idade e como ela pode estar ou não relacionada ao sucesso em sua TED Talk [“A real relação entre sua idade e sua chance de sucesso”](). Ele discute esse “mito” das grandes conquistas sempre correndo contra o relógio e também fala sobre as muitas vantagens de se perseguir um objetivo com uma idade mais madura e maior experiência. Segundo a palestra, startups criadas por jovens vão à falência mais frequentemente do que empresas iniciadas depois do 50 anos.
 
 E aí? Qual projeto você quer perseguir e se sente muito velho para isso?
 
