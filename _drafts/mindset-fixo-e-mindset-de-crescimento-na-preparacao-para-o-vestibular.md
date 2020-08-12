@@ -4,7 +4,7 @@ title: Mindset fixo e mindset de crescimento na preparação para o vestibular
 excerpt: Como enxergar de forma mais amena a preparação para o vestibular e se manter
   forte na jornada que levará você ao seu objetivo
 author: marina
-image: ''
+image: "/assets/uploads/jesse-orrico-rmwtvqn5rzu-unsplash.jpg"
 readingtime: 8
 date: 2020-08-23 21:00:00 +0000
 categories:
