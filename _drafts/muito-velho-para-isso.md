@@ -63,3 +63,5 @@ E aí? Qual projeto você quer perseguir e se sente muito velho para isso?
 Espero que nenhum depois desse texto, não é mesmo?
 
 Abraços e até a próxima!
+
+Cover photo by [S O C I A L . C U T](https://unsplash.com/@socialcut?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/goals?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
