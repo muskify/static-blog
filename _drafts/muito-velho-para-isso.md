@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Muito velho para isso?
+title: 'Série metas: Muito velho para isso?'
 excerpt: Existe uma idade limite para se reinventar, correr atrás de seu sonho e traçar
   metas em prol de algo completamente novo?
 author: marina
@@ -41,6 +41,8 @@ Existem pessoas que atingiram o sucesso profissional muito cedo e a grande mídi
 Ainda não se convenceu?
 
 O site Funders and Founders confeccionou o infográfico a seguir para mostrar com mais realidade as trajetórias de sucesso “do homem comum”.
+
+![](https://lh5.googleusercontent.com/9uGLrXAlqUVb2nsrg-Hyvzxj4vk_b-Tfh-GrJ3Yn7pGJIW31lEmVQ5vtWKDHOWE5Ugf_yPrPP0krRgnAF4zM4k-ZgN7lIXI9qjG1Hp0lVaQ8T77wX13tTPDL5FmSO4yCJ5Twbo8H =479x378.66027107035353)
 
 Além da questão da idade, é preciso saber diferenciar bem “desempenho” e “sucesso”. Muitas vezes, temos o costume de nos envolver em muitos projetos e falamos para nós mesmo que tudo bem não conseguirmos perseguir o que queremos, pois estamos produzindo bastante e atuando em vários empreendimentos.
 
