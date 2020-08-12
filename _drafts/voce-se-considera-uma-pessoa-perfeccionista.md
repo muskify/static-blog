@@ -4,8 +4,8 @@ title: 'Você se considera uma pessoa perfeccionista? '
 excerpt: Esse pode ser o problema chave que você precisa enfrentar para uma rotina
   menos estressante e uma vida mais feliz
 author: marina
-image: ''
-readingtime: 6
+image: "/assets/uploads/brett-jordan-fmbrkk2la0s-unsplash.jpg"
+readingtime: 8
 date: 2020-09-13 21:00:00 +0000
 categories:
 - produtividade
@@ -76,3 +76,11 @@ Não precisamos pensar de modo tão extremo, mas o fato é que o perfeccionismo 
 A personagem Doutora Miranda Bailey, na série “Grey’s Anatomy”, traz uma narrativa interessante sobre isso. Após a morte de 3 pacientes por infecção, ela desenvolve TOC: para garantir a absoluta e total esterilização necessária para a cirurgia. De modo obsessivo e não saudável, ela passa a sentir necessidade de que os aparelhos e ferramentas cirúrgicas estejam de um determinado modo e posicionadas de uma forma específica. A série mostra o que uma rotina muito estressante pode fazer com o corpo.
 
 Gostou do conteúdo? Não se esqueça de nos acompanhar nas redes sociais!
+
+Referências: 
+
+[Perfectionism in the Self and Social Contexts: Conceptualization, Assessment, and Association With Psychopathology]()
+
+[O perigoso lado ruim de ser perfeccionista](https://www.bbc.com/portuguese/vert-fut-44044126)
+
+Cover photo by [Brett Jordan](https://unsplash.com/@brett_jordan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/perfectionism?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
