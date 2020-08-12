@@ -97,3 +97,5 @@ Porém, esclarecendo: você não precisa sentar no primeiro dia e montar todo o 
 Com qual mindset você se identifica? Está disposto a ser mais confiante e desenvolver o mindset de crescimento? O que achou do mindset de crescimento?
 
 Abraços! Até a próxima!
+
+Cover photo by [jesse orrico](https://unsplash.com/@jessedo81?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/brain?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
