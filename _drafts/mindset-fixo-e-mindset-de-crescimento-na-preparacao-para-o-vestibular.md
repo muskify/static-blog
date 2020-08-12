@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Mindset fixo e mindset de crescimento na preparação para o vestibular
+title: 'Série cursinho: Mindset fixo e mindset de crescimento na preparação para o
+  vestibular'
 excerpt: Como enxergar de forma mais amena a preparação para o vestibular e se manter
   forte na jornada que levará você ao seu objetivo
 author: marina
