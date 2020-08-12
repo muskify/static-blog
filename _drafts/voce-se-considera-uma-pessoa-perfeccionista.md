@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Você se considera uma pessoa perfeccionista? '
+title: 'Série cursinho: Você se considera uma pessoa perfeccionista? '
 excerpt: Esse pode ser o problema chave que você precisa enfrentar para uma rotina
   menos estressante e uma vida mais feliz
 author: marina
