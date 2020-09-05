@@ -9,7 +9,7 @@ excerpt: " Poxa, eu queria tanto aquela casa?        NÃO!        Eu queria tant
 author: juliocesar
 image: "/assets/uploads/nao.jpg"
 readingtime: 5
-date: 2020-09-30 03:00:00 +0000
+date: 2020-08-30 03:00:00 +0000
 categories:
 - Emprego, vestibular, sucesso, fracasso
 
