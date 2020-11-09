@@ -6,7 +6,7 @@ excerpt: Evitar a criação de dívidas para não destruir sonhos que você aind
 author: marina
 image: "/assets/uploads/micheile-henderson-zvprbbmt8qa-unsplash.jpg"
 readingtime: 6
-date: 2020-11-09 03:00:00 +0000
+date: 2020-11-10 00:00:00 +0000
 categories:
 - Dívidas
 - Economia doméstica
