@@ -4,7 +4,7 @@ title: Por que cuidar bem da sua vida financeira (e dicas de como fazer isso)?
 excerpt: Evitar a criação de dívidas para não destruir sonhos que você ainda nem sabe
   que tem  Quem não quer respirar aliviado sobre seu dinheiro todo mês?
 author: marina
-image: ''
+image: "/assets/uploads/micheile-henderson-zvprbbmt8qa-unsplash.jpg"
 readingtime: 6
 date: 2020-11-09 03:00:00 +0000
 categories:
@@ -49,7 +49,7 @@ A verdade é que, guardando dinheiro, é possível alcançar grandes quantias. C
 
 Se você der um google rápido sobre isso, encontrará diversas pesquisas e reportagens sobre a porcentagem (bem alta, viu) de brasileiros que admitem não ter nenhum controle sobre sua financeira, não sabem quanto ganham, qual sua média de gastos mensais, quanto pagam de juros, etc…
 
-Deixo uma leitura particularmente interessante de um documento do SPC, para que você mesmo veja como é essa realidade..
+Deixo uma leitura particularmente interessante de um [documento do SPC](https://www.spcbrasil.org.br/uploads/st_imprensa/release_educacao_financeira_v7.pdf), para que você mesmo veja como é essa realidade..
 
 Segue a manchete:
 
@@ -57,7 +57,7 @@ Segue a manchete:
 
 E por que parece ser tão difícil guardar um dinheirinho?
 
-Uma explicação muito interessante que aprendi na TED Talk **‘A luta entre o seu ser presente e futuro’, com Daniel Goldstein** (economista comportamental e psicólogo que estuda como tomamos nossas decisões sobre nossas vidas financeiras**)** me esclareceu bastante sobre isso.
+Uma explicação muito interessante que aprendi na TED Talk [**‘A luta entre o seu ser presente e futuro’, com Daniel Goldstein**](https://www.ted.com/talks/daniel_goldstein_the_battle_between_your_present_and_future_self/discussion?lang uage=pt-br#t-161126 ) (economista comportamental e psicólogo que estuda como tomamos nossas decisões sobre nossas vidas financeiras) me esclareceu bastante sobre isso.
 
 Segundo o especialista, nosso problema está na falta de disciplina para perceber que não é apenas o “eu” de agora que importa, o “eu” do presente.
 
@@ -70,3 +70,5 @@ Melhor juntar logo um dinheiro…
 Bora abraçar os sonhos que a gente ainda nem sabe que tem?
 
 Abraços, pessoal!
+
+Cover image de Micheile Henderson em [Unsplash](https://unsplash.com/photos/ZVprbBmT8QA)
